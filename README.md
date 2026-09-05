@@ -149,8 +149,8 @@ flowchart TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/razorgrowth-ai.git
-cd razorgrowth-ai
+git clone https://github.com/vishwas8671/RazorGrowth-AI-Agentic-Commerce-Growth-Intelligence-Platform.git
+cd RazorGrowth-AI-Agentic-Commerce-Growth-Intelligence-Platform
 ```
 
 ### 2. Backend Setup
