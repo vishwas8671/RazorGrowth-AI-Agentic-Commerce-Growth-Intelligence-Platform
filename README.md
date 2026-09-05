@@ -277,6 +277,6 @@ Razorpay/
 
 ## 👤 Author
 
-- **Vishwas** ([GitHub](https://github.com/vishwas7906))
+- **Vishwas** ([GitHub](https://github.com/vishwas8671))
 - **Email:** vishwas7906@gmail.com
 - **Track:** Razorpay AI Internship / Build Challenge Track 1
