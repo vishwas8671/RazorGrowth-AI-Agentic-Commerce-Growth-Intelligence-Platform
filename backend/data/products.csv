@@ -1,0 +1,21 @@
+product_id,product_name,category,price,cost,inventory
+P001,Pro Runner Nitro Carbon Shoes,Footwear & Sports,4999.0,2100.0,450
+P002,AeroDry Breathable Sports Socks (3-Pack),Footwear & Sports,699.0,180.0,1200
+P003,AuraFit Smart Band Pro GPS,Electronics & Wearables,2499.0,1150.0,600
+P004,UltraSound Active ANC Wireless Earbuds,Electronics & Wearables,3499.0,1500.0,380
+P005,Titanium Insulated Sports Flask 1L,Fitness & Lifestyle,1199.0,420.0,850
+P006,HydroPure Isolate Whey Protein 1kg,Health & Nutrition,2899.0,1400.0,520
+P007,ErgoSupport Orthopedic Lumbar Cushion,Home & Workstation,1499.0,550.0,640
+P008,SpeedGrip Textured Yoga & Fitness Mat,Fitness & Lifestyle,1299.0,450.0,700
+P009,ColdBrew Precision Coffee Infuser,Home & Kitchen,1899.0,720.0,310
+P010,GlowMax Vitamin C Face Serum 30ml,Personal Care & Skincare,899.0,230.0,1400
+P011,SunShield Mineral Matte Sunscreen SPF 50,Personal Care & Skincare,649.0,160.0,1600
+P012,RapidCharge 65W GaN Dual USB-C Adapter,Electronics & Wearables,1799.0,650.0,920
+P013,FlexiRest Ergonomic Memory Pillow,Home & Workstation,1999.0,750.0,430
+P014,PureBrew Single-Origin Arabica Beans 500g,Food & Gourmet,799.0,320.0,800
+P015,StormShield Waterproof Commuter Backpack,Travel & Bags,2999.0,1100.0,350
+P016,PowerBar Plant Energy Bars (Box of 12),Health & Nutrition,999.0,380.0,1100
+P017,CoreStrengthen Resistance Band Set (5 Levels),Fitness & Lifestyle,849.0,260.0,950
+P018,AirPurify HEPA Compact Desk Filter,Home & Workstation,3899.0,1700.0,240
+P019,SleepZen Organic Melatonin Infusion Drops,Health & Nutrition,749.0,210.0,780
+P020,Precision Beard & Hair Cordless Trimmer,Personal Care & Skincare,1699.0,620.0,510

@@ -1,0 +1,1001 @@
+customer_id,name,email,signup_date,city,segment,total_orders,total_spend,last_purchase_date,churn_risk,churn_probability
+C0001,Kunal Rao,kunal.rao13@gmail.com,2026-03-30 12:00:00,Pune,At Risk,5,13245.0,2026-06-22 22:18:00,HIGH,0.7
+C0002,Priya Gupta,priya.gupta23@gmail.com,2026-06-19 12:00:00,Jaipur,Loyal,6,8194.0,2026-08-28 11:40:00,LOW,0.17
+C0003,Harsh Hegde,harsh.hegde14@gmail.com,2026-06-16 12:00:00,Bengaluru,At Risk,9,17641.0,2026-06-22 21:07:00,HIGH,0.79
+C0004,Pranav Singhal,pranav.singhal74@gmail.com,2026-07-20 12:00:00,Chandigarh,Loyal,8,13292.0,2026-07-04 04:22:00,LOW,0.15
+C0005,Deepika Kulkarni,deepika.kulkarni93@gmail.com,2025-12-31 12:00:00,Jaipur,Loyal,10,17940.0,2026-08-07 23:44:00,LOW,0.19
+C0006,Priya Bhatt,priya.bhatt85@gmail.com,2026-07-30 12:00:00,Pune,VIP,7,23293.0,2026-08-16 22:38:00,LOW,0.14
+C0007,Tarun Chopra,tarun.chopra99@gmail.com,2026-02-09 12:00:00,Kolkata,At Risk,7,13493.0,2026-06-23 02:54:00,HIGH,0.71
+C0008,Rohan Malhotra,rohan.malhotra37@gmail.com,2026-06-11 12:00:00,Chennai,At Risk,6,14644.0,2026-06-24 02:11:00,HIGH,0.8
+C0009,Diya Pillai,diya.pillai22@gmail.com,2026-02-07 12:00:00,Chennai,At Risk,7,10693.0,2026-06-25 07:36:00,HIGH,0.73
+C0010,Isha Agrawal,isha.agrawal15@gmail.com,2025-11-01 12:00:00,Ahmedabad,Loyal,9,19791.0,2026-08-22 18:01:00,LOW,0.18
+C0011,Kavya Pillai,kavya.pillai20@gmail.com,2026-03-05 12:00:00,Jaipur,Loyal,8,15492.0,2026-08-30 07:11:00,LOW,0.16
+C0012,Kunal Dutta,kunal.dutta56@gmail.com,2026-04-26 12:00:00,Chandigarh,Loyal,7,13243.0,2026-07-24 12:15:00,LOW,0.22
+C0013,Payal Iyer,payal.iyer15@gmail.com,2026-03-07 12:00:00,Hyderabad,Loyal,8,14042.0,2026-08-05 23:36:00,LOW,0.14
+C0014,Diya Singhal,diya.singhal22@gmail.com,2026-03-13 12:00:00,Kolkata,Loyal,9,13491.0,2026-08-19 14:56:00,LOW,0.25
+C0015,Aditya Menon,aditya.menon30@gmail.com,2026-02-02 12:00:00,Chennai,VIP,10,20240.0,2026-07-13 13:00:00,LOW,0.16
+C0016,Pranav Bhatia,pranav.bhatia99@gmail.com,2025-09-25 12:00:00,Mumbai,Loyal,6,9994.0,2026-08-30 23:26:00,LOW,0.2
+C0017,Kunal Chopra,kunal.chopra78@gmail.com,2026-05-11 12:00:00,Hyderabad,At Risk,8,15392.0,2026-06-29 17:51:00,HIGH,0.82
+C0018,Aditya Pillai,aditya.pillai44@gmail.com,2026-04-12 12:00:00,Jaipur,Loyal,12,16338.0,2026-08-10 23:38:00,LOW,0.2
+C0019,Nandini Mukherjee,nandini.mukherjee17@gmail.com,2026-07-17 12:00:00,Hyderabad,Loyal,6,10794.0,2026-08-06 08:58:00,LOW,0.16
+C0020,Shreya Nambiar,shreya.nambiar44@gmail.com,2026-04-16 12:00:00,Mumbai,VIP,10,27990.0,2026-08-26 09:06:00,LOW,0.14
+C0021,Gaurav Mukherjee,gaurav.mukherjee37@gmail.com,2026-01-12 12:00:00,Ahmedabad,Growing,6,6894.0,2026-06-08 13:18:00,MEDIUM,0.38
+C0022,Lakshmi Trivedi,lakshmi.trivedi28@gmail.com,2026-05-23 12:00:00,Pune,Loyal,9,11241.0,2026-08-31 11:00:00,LOW,0.19
+C0023,Rahul Mathur,rahul.mathur78@gmail.com,2025-10-07 12:00:00,Pune,Loyal,9,16191.0,2026-08-23 12:45:00,LOW,0.27
+C0024,Zoya Choudhury,zoya.choudhury61@gmail.com,2026-04-12 12:00:00,Chennai,VIP,13,22237.0,2026-08-05 12:05:00,LOW,0.06
+C0025,Manish Dubey,manish.dubey73@gmail.com,2026-07-09 12:00:00,Mumbai,At Risk,6,11944.0,2026-06-29 15:16:00,HIGH,0.75
+C0026,Kavya Malhotra,kavya.malhotra90@gmail.com,2025-08-19 12:00:00,Delhi NCR,Loyal,9,16391.0,2026-08-02 10:32:00,LOW,0.21
+C0027,Zoya Bose,zoya.bose18@gmail.com,2026-01-19 12:00:00,Kolkata,Loyal,10,15540.0,2026-08-05 23:14:00,LOW,0.18
+C0028,Isha Trivedi,isha.trivedi77@gmail.com,2025-10-23 12:00:00,Pune,VIP,11,20889.0,2026-07-10 10:08:00,LOW,0.14
+C0029,Aarav Rao,aarav.rao97@gmail.com,2026-03-19 12:00:00,Jaipur,VIP,10,22690.0,2026-08-08 18:04:00,LOW,0.14
+C0030,Yash Das,yash.das24@gmail.com,2025-12-23 12:00:00,Pune,Loyal,10,14890.0,2026-08-19 11:52:00,LOW,0.16
+C0031,Neha Trivedi,neha.trivedi10@gmail.com,2025-11-19 12:00:00,Pune,VIP,13,21537.0,2026-08-29 11:11:00,LOW,0.17
+C0032,Tarun Joshi,tarun.joshi74@gmail.com,2025-09-16 12:00:00,Mumbai,At Risk,8,16142.0,2026-06-27 17:43:00,HIGH,0.84
+C0033,Samarth Dubey,samarth.dubey87@gmail.com,2026-05-16 12:00:00,Hyderabad,Loyal,10,12740.0,2026-08-21 14:24:00,LOW,0.25
+C0034,Tanvi Chopra,tanvi.chopra79@gmail.com,2026-08-02 12:00:00,Jaipur,Loyal,9,11641.0,2026-08-25 07:10:00,LOW,0.12
+C0035,Isha Mukherjee,isha.mukherjee72@gmail.com,2026-06-06 12:00:00,Bengaluru,Loyal,10,19990.0,2026-07-30 23:19:00,LOW,0.19
+C0036,Tanvi Chatterjee,tanvi.chatterjee40@gmail.com,2026-04-01 12:00:00,Bengaluru,At Risk,7,14993.0,2026-06-13 19:25:00,HIGH,0.79
+C0037,Gaurav Nair,gaurav.nair20@gmail.com,2026-06-28 12:00:00,Ahmedabad,At Risk,6,9594.0,2026-06-30 00:16:00,HIGH,0.78
+C0038,Tarun Saxena,tarun.saxena26@gmail.com,2025-08-30 12:00:00,Delhi NCR,VIP,13,20387.0,2026-07-02 20:28:00,LOW,0.16
+C0039,Akash Mathur,akash.mathur31@gmail.com,2025-11-05 12:00:00,Pune,Loyal,7,14143.0,2026-07-05 02:58:00,LOW,0.27
+C0040,Isha Hegde,isha.hegde37@gmail.com,2025-08-14 12:00:00,Jaipur,Loyal,11,15289.0,2026-08-01 02:01:00,LOW,0.14
+C0041,Pooja Chatterjee,pooja.chatterjee61@gmail.com,2025-12-21 12:00:00,Chennai,VIP,12,21238.0,2026-08-08 05:45:00,LOW,0.05
+C0042,Bhavya Bhatt,bhavya.bhatt25@gmail.com,2026-04-09 12:00:00,Hyderabad,Growing,6,6094.0,2026-08-25 16:08:00,MEDIUM,0.39
+C0043,Dev Das,dev.das12@gmail.com,2025-10-23 12:00:00,Chandigarh,Loyal,9,12191.0,2026-07-29 14:16:00,LOW,0.19
+C0044,Priya Choudhury,priya.choudhury38@gmail.com,2026-06-27 12:00:00,Bengaluru,At Risk,7,9793.0,2026-07-01 01:46:00,HIGH,0.84
+C0045,Payal Mehta,payal.mehta39@gmail.com,2026-07-17 12:00:00,Mumbai,Loyal,8,14992.0,2026-08-19 02:56:00,LOW,0.16
+C0046,Siddharth Iyer,siddharth.iyer75@gmail.com,2026-03-13 12:00:00,Hyderabad,Loyal,9,14541.0,2026-08-02 09:30:00,LOW,0.13
+C0047,Mayank Mishra,mayank.mishra37@gmail.com,2026-05-27 12:00:00,Jaipur,VIP,13,27337.0,2026-07-20 16:44:00,LOW,0.16
+C0048,Rajesh Srivastava,rajesh.srivastava83@gmail.com,2026-03-31 12:00:00,Ahmedabad,At Risk,8,15592.0,2026-06-30 14:49:00,HIGH,0.84
+C0049,Akash Shetty,akash.shetty34@gmail.com,2026-06-14 12:00:00,Mumbai,At Risk,8,11692.0,2026-06-17 22:08:00,HIGH,0.73
+C0050,Mayank Hegde,mayank.hegde55@gmail.com,2026-01-04 12:00:00,Kolkata,Growing,7,7093.0,2026-08-17 23:45:00,MEDIUM,0.43
+C0051,Aditya Mehta,aditya.mehta96@gmail.com,2026-07-02 12:00:00,Mumbai,Loyal,10,18090.0,2026-08-30 22:31:00,LOW,0.22
+C0052,Vikram Das,vikram.das23@gmail.com,2026-04-26 12:00:00,Hyderabad,Loyal,8,19442.0,2026-08-18 17:42:00,LOW,0.24
+C0053,Pooja Saxena,pooja.saxena67@gmail.com,2025-12-29 12:00:00,Delhi NCR,Loyal,9,10491.0,2026-08-03 08:39:00,LOW,0.2
+C0054,Nikhil Bhatia,nikhil.bhatia69@gmail.com,2026-06-25 12:00:00,Hyderabad,VIP,11,20589.0,2026-08-25 05:46:00,LOW,0.12
+C0055,Kiran Mathur,kiran.mathur22@gmail.com,2025-09-03 12:00:00,Bengaluru,VIP,8,21392.0,2026-07-27 07:45:00,LOW,0.13
+C0056,Chirag Sharma,chirag.sharma21@gmail.com,2026-05-09 12:00:00,Hyderabad,At Risk,7,15143.0,2026-06-28 22:17:00,HIGH,0.72
+C0057,Vivek Mishra,vivek.mishra71@gmail.com,2026-01-09 12:00:00,Hyderabad,At Risk,8,16192.0,2026-06-21 05:39:00,HIGH,0.74
+C0058,Arjun Chopra,arjun.chopra58@gmail.com,2026-01-15 12:00:00,Bengaluru,At Risk,10,19840.0,2026-06-12 13:51:00,HIGH,0.83
+C0059,Rhea Trivedi,rhea.trivedi46@gmail.com,2025-08-11 12:00:00,Kolkata,Loyal,11,19239.0,2026-07-28 06:57:00,LOW,0.18
+C0060,Rajesh Mathur,rajesh.mathur94@gmail.com,2026-05-15 12:00:00,Ahmedabad,Loyal,7,14443.0,2026-07-14 13:23:00,LOW,0.15
+C0061,Pooja Kapoor,pooja.kapoor37@gmail.com,2025-10-10 12:00:00,Bengaluru,Loyal,11,19739.0,2026-08-26 16:37:00,LOW,0.13
+C0062,Sakshi Saxena,sakshi.saxena17@gmail.com,2026-07-04 12:00:00,Chennai,Loyal,9,11091.0,2026-07-28 21:00:00,LOW,0.25
+C0063,Arjun Choudhury,arjun.choudhury71@gmail.com,2025-11-04 12:00:00,Jaipur,VIP,16,32434.0,2026-08-01 20:12:00,LOW,0.07
+C0064,Neha Mehta,neha.mehta75@gmail.com,2026-04-29 12:00:00,Mumbai,At Risk,9,17841.0,2026-06-15 03:18:00,HIGH,0.71
+C0065,Dev Bose,dev.bose18@gmail.com,2026-01-08 12:00:00,Hyderabad,Loyal,8,15692.0,2026-08-30 16:39:00,LOW,0.21
+C0066,Kavya Srivastava,kavya.srivastava41@gmail.com,2025-10-02 12:00:00,Chandigarh,At Risk,6,10244.0,2026-05-19 23:03:00,HIGH,0.7
+C0067,Ananya Dutta,ananya.dutta20@gmail.com,2025-08-31 12:00:00,Kolkata,At Risk,8,15392.0,2026-06-27 09:24:00,HIGH,0.78
+C0068,Harsh Srivastava,harsh.srivastava76@gmail.com,2026-03-22 12:00:00,Chennai,Loyal,10,16740.0,2026-08-25 11:41:00,LOW,0.15
+C0069,Pranav Mukherjee,pranav.mukherjee40@gmail.com,2026-01-12 12:00:00,Pune,Loyal,9,19391.0,2026-07-23 00:03:00,LOW,0.26
+C0070,Manish Chatterjee,manish.chatterjee68@gmail.com,2026-06-26 12:00:00,Chennai,Loyal,10,14590.0,2026-08-23 12:50:00,LOW,0.21
+C0071,Aarav Trivedi,aarav.trivedi89@gmail.com,2026-06-12 12:00:00,Chandigarh,Loyal,8,12742.0,2026-08-09 07:59:00,LOW,0.25
+C0072,Dev Saxena,dev.saxena37@gmail.com,2026-03-20 12:00:00,Jaipur,At Risk,5,11495.0,2026-06-23 23:19:00,HIGH,0.84
+C0073,Manish Sengupta,manish.sengupta18@gmail.com,2026-01-25 12:00:00,Hyderabad,Growing,5,4045.0,2026-06-26 01:58:00,MEDIUM,0.33
+C0074,Saanvi Chopra,saanvi.chopra66@gmail.com,2025-08-07 12:00:00,Jaipur,At Risk,7,15643.0,2026-06-30 23:41:00,HIGH,0.75
+C0075,Samarth Dutta,samarth.dutta93@gmail.com,2026-07-29 12:00:00,Jaipur,VIP,10,23290.0,2026-08-19 07:45:00,LOW,0.16
+C0076,Mayank Mathur,mayank.mathur48@gmail.com,2026-05-26 12:00:00,Mumbai,Loyal,9,17191.0,2026-08-12 17:31:00,LOW,0.18
+C0077,Rhea Rao,rhea.rao23@gmail.com,2026-05-15 12:00:00,Jaipur,Loyal,8,16592.0,2026-08-25 07:30:00,LOW,0.26
+C0078,Rohan Kapoor,rohan.kapoor87@gmail.com,2025-07-31 12:00:00,Hyderabad,Loyal,9,18091.0,2026-07-09 03:26:00,LOW,0.17
+C0079,Siddharth Deshmukh,siddharth.deshmukh97@gmail.com,2025-11-17 12:00:00,Pune,At Risk,9,12791.0,2026-06-27 16:23:00,HIGH,0.76
+C0080,Anika Agrawal,anika.agrawal16@gmail.com,2025-09-12 12:00:00,Mumbai,VIP,13,24087.0,2026-07-26 19:09:00,LOW,0.08
+C0081,Zoya Bhatia,zoya.bhatia15@gmail.com,2026-02-13 12:00:00,Bengaluru,Loyal,7,15643.0,2026-07-04 17:28:00,LOW,0.19
+C0082,Yash Gupta,yash.gupta91@gmail.com,2026-05-12 12:00:00,Pune,At Risk,7,11343.0,2026-07-02 10:46:00,HIGH,0.81
+C0083,Sakshi Bhatt,sakshi.bhatt80@gmail.com,2025-10-19 12:00:00,Kolkata,VIP,13,30087.0,2026-07-06 10:30:00,LOW,0.09
+C0084,Aarav Rao,aarav.rao19@gmail.com,2025-10-27 12:00:00,Delhi NCR,At Risk,6,13044.0,2026-05-20 15:45:00,HIGH,0.78
+C0085,Ananya Menon,ananya.menon84@gmail.com,2026-05-19 12:00:00,Jaipur,Loyal,3,8097.0,2026-08-20 23:42:00,LOW,0.12
+C0086,Zoya Gupta,zoya.gupta15@gmail.com,2026-01-28 12:00:00,Pune,Growing,3,2747.0,2026-07-14 00:36:00,MEDIUM,0.38
+C0087,Ananya Sengupta,ananya.sengupta36@gmail.com,2025-08-26 12:00:00,Hyderabad,New,1,1199.0,2026-07-30 00:00:00,MEDIUM,0.41
+C0088,Ishaan Sengupta,ishaan.sengupta81@gmail.com,2025-09-19 12:00:00,Kolkata,Growing,4,6046.0,2026-08-03 23:11:00,MEDIUM,0.35
+C0089,Sakshi Malhotra,sakshi.malhotra40@gmail.com,2026-05-04 12:00:00,Delhi NCR,Loyal,4,10046.0,2026-08-04 14:04:00,LOW,0.17
+C0090,Vivek Verma,vivek.verma32@gmail.com,2026-01-04 12:00:00,Chennai,Growing,3,5047.0,2026-08-08 15:59:00,MEDIUM,0.27
+C0091,Mayank Bansal,mayank.bansal44@gmail.com,2025-08-08 12:00:00,Delhi NCR,Growing,4,6646.0,2026-06-02 14:25:00,MEDIUM,0.28
+C0092,Ishaan Pillai,ishaan.pillai14@gmail.com,2026-04-11 12:00:00,Ahmedabad,Growing,2,2148.0,2026-08-22 15:32:00,MEDIUM,0.38
+C0093,Pooja Trivedi,pooja.trivedi54@gmail.com,2026-04-08 12:00:00,Pune,Growing,4,5396.0,2026-08-25 18:17:00,MEDIUM,0.39
+C0094,Priya Verma,priya.verma94@gmail.com,2026-01-10 12:00:00,Hyderabad,Loyal,3,8497.0,2026-08-27 00:04:00,LOW,0.18
+C0095,Siddharth Bhatia,siddharth.bhatia18@gmail.com,2026-02-04 12:00:00,Pune,Loyal,3,8197.0,2026-08-27 15:35:00,LOW,0.21
+C0096,Lakshmi Dubey,lakshmi.dubey61@gmail.com,2026-02-14 12:00:00,Jaipur,Growing,5,6845.0,2026-08-13 19:54:00,MEDIUM,0.43
+C0097,Aditi Rao,aditi.rao43@gmail.com,2025-10-09 12:00:00,Delhi NCR,Growing,4,7896.0,2026-07-08 12:11:00,MEDIUM,0.31
+C0098,Rhea Patel,rhea.patel23@gmail.com,2025-12-23 12:00:00,Chandigarh,At Risk,1,799.0,2026-06-15 03:40:00,HIGH,0.79
+C0099,Sneha Mukherjee,sneha.mukherjee65@gmail.com,2025-11-14 12:00:00,Chandigarh,Loyal,6,11894.0,2026-08-25 11:59:00,LOW,0.16
+C0100,Kavya Pillai,kavya.pillai83@gmail.com,2026-03-25 12:00:00,Hyderabad,Growing,2,1448.0,2026-08-25 14:43:00,MEDIUM,0.37
+C0101,Ananya Hegde,ananya.hegde10@gmail.com,2025-10-31 12:00:00,Jaipur,At Risk,1,2999.0,2026-05-03 23:54:00,HIGH,0.76
+C0102,Nandini Kulkarni,nandini.kulkarni56@gmail.com,2026-06-28 12:00:00,Kolkata,At Risk,5,13445.0,2026-06-20 06:53:00,HIGH,0.78
+C0103,Mayank Das,mayank.das89@gmail.com,2025-08-28 12:00:00,Chennai,Loyal,8,14992.0,2026-07-14 07:31:00,LOW,0.17
+C0104,Kavya Chatterjee,kavya.chatterjee74@gmail.com,2025-08-26 12:00:00,Pune,Loyal,4,8196.0,2026-07-22 07:50:00,LOW,0.21
+C0105,Vivek Mukherjee,vivek.mukherjee61@gmail.com,2025-10-23 12:00:00,Pune,New,1,1699.0,2026-06-18 13:39:00,MEDIUM,0.48
+C0106,Manish Kulkarni,manish.kulkarni63@gmail.com,2025-08-21 12:00:00,Kolkata,At Risk,1,699.0,2026-05-03 02:57:00,HIGH,0.8
+C0107,Sakshi Joshi,sakshi.joshi88@gmail.com,2026-03-01 12:00:00,Chandigarh,At Risk,1,849.0,2026-05-22 18:11:00,HIGH,0.78
+C0108,Vikram Mathur,vikram.mathur10@gmail.com,2026-03-09 12:00:00,Pune,Loyal,5,11795.0,2026-08-12 14:51:00,LOW,0.28
+C0109,Pranav Hegde,pranav.hegde84@gmail.com,2025-09-01 12:00:00,Chandigarh,Loyal,3,11497.0,2026-07-16 02:25:00,LOW,0.19
+C0110,Shreya Trivedi,shreya.trivedi66@gmail.com,2025-08-22 12:00:00,Ahmedabad,Loyal,8,14492.0,2026-08-26 22:51:00,LOW,0.13
+C0111,Pranav Dubey,pranav.dubey70@gmail.com,2025-08-30 12:00:00,Delhi NCR,Loyal,4,12496.0,2026-07-30 07:14:00,LOW,0.14
+C0112,Diya Kapoor,diya.kapoor75@gmail.com,2026-02-12 12:00:00,Chandigarh,Growing,3,2597.0,2026-08-11 02:12:00,MEDIUM,0.3
+C0113,Diya Bansal,diya.bansal96@gmail.com,2026-04-09 12:00:00,Pune,Growing,6,7844.0,2026-08-22 20:42:00,MEDIUM,0.38
+C0114,Pooja Malhotra,pooja.malhotra13@gmail.com,2026-03-30 12:00:00,Bengaluru,Growing,4,2946.0,2026-07-19 18:09:00,MEDIUM,0.42
+C0115,Akash Dutta,akash.dutta19@gmail.com,2026-01-02 12:00:00,Ahmedabad,Churned,2,2348.0,2026-04-30 15:07:00,HIGH,0.9
+C0116,Kunal Srivastava,kunal.srivastava34@gmail.com,2025-11-22 12:00:00,Kolkata,Growing,3,2497.0,2026-08-12 04:47:00,MEDIUM,0.37
+C0117,Vikram Bansal,vikram.bansal28@gmail.com,2026-06-09 12:00:00,Bengaluru,Growing,4,7796.0,2026-07-25 03:21:00,MEDIUM,0.36
+C0118,Yash Hegde,yash.hegde38@gmail.com,2025-08-11 12:00:00,Delhi NCR,Loyal,5,8995.0,2026-07-14 21:33:00,LOW,0.26
+C0119,Bhavya Trivedi,bhavya.trivedi16@gmail.com,2026-03-28 12:00:00,Jaipur,At Risk,4,10596.0,2026-06-13 04:46:00,HIGH,0.71
+C0120,Kavya Trivedi,kavya.trivedi27@gmail.com,2025-08-26 12:00:00,Ahmedabad,Growing,2,3148.0,2026-07-30 20:19:00,MEDIUM,0.4
+C0121,Bhavya Mathur,bhavya.mathur86@gmail.com,2025-12-19 12:00:00,Chennai,Churned,4,5896.0,2026-05-26 12:59:00,HIGH,0.97
+C0122,Jatin Dubey,jatin.dubey64@gmail.com,2025-12-17 12:00:00,Jaipur,New,1,1899.0,2026-07-15 23:53:00,MEDIUM,0.34
+C0123,Neha Pandey,neha.pandey67@gmail.com,2026-03-29 12:00:00,Pune,Growing,4,7146.0,2026-07-22 22:16:00,MEDIUM,0.28
+C0124,Kunal Bhatia,kunal.bhatia76@gmail.com,2025-09-16 12:00:00,Ahmedabad,Loyal,4,13096.0,2026-08-22 21:52:00,LOW,0.12
+C0125,Rahul Bhatia,rahul.bhatia66@gmail.com,2025-08-02 12:00:00,Mumbai,New,1,1899.0,2026-07-31 23:09:00,MEDIUM,0.47
+C0126,Saanvi Bansal,saanvi.bansal44@gmail.com,2026-02-20 12:00:00,Chennai,New,1,699.0,2026-06-20 01:57:00,MEDIUM,0.49
+C0127,Chirag Nair,chirag.nair27@gmail.com,2026-04-06 12:00:00,Delhi NCR,Growing,2,1598.0,2026-08-10 15:01:00,MEDIUM,0.35
+C0128,Varun Malhotra,varun.malhotra37@gmail.com,2026-01-02 12:00:00,Mumbai,Growing,6,7844.0,2026-08-22 11:13:00,MEDIUM,0.45
+C0129,Vivek Das,vivek.das79@gmail.com,2026-01-02 12:00:00,Ahmedabad,At Risk,5,10795.0,2026-06-25 16:51:00,HIGH,0.72
+C0130,Arjun Deshmukh,arjun.deshmukh63@gmail.com,2025-10-07 12:00:00,Kolkata,Loyal,6,11294.0,2026-08-18 19:06:00,LOW,0.19
+C0131,Omkar Verma,omkar.verma83@gmail.com,2025-12-01 12:00:00,Kolkata,Churned,2,3398.0,2026-04-19 11:45:00,HIGH,0.97
+C0132,Aarav Sengupta,aarav.sengupta48@gmail.com,2025-12-31 12:00:00,Kolkata,Growing,3,3997.0,2026-06-12 09:01:00,MEDIUM,0.35
+C0133,Chirag Saxena,chirag.saxena87@gmail.com,2025-11-26 12:00:00,Hyderabad,Growing,4,4696.0,2026-06-10 15:27:00,MEDIUM,0.33
+C0134,Priya Bhatia,priya.bhatia65@gmail.com,2026-07-19 12:00:00,Ahmedabad,Growing,2,3198.0,2026-08-23 14:12:00,MEDIUM,0.34
+C0135,Varun Das,varun.das95@gmail.com,2025-07-28 12:00:00,Kolkata,Growing,3,4397.0,2026-07-09 05:16:00,MEDIUM,0.36
+C0136,Neha Trivedi,neha.trivedi26@gmail.com,2025-11-02 12:00:00,Chandigarh,At Risk,3,9497.0,2026-04-11 10:27:00,HIGH,0.8
+C0137,Aditi Nambiar,aditi.nambiar85@gmail.com,2025-08-28 12:00:00,Chandigarh,Growing,2,6498.0,2026-08-20 23:49:00,MEDIUM,0.32
+C0138,Aditi Nair,aditi.nair92@gmail.com,2026-05-25 12:00:00,Kolkata,Growing,6,7844.0,2026-08-01 07:45:00,MEDIUM,0.34
+C0139,Aditya Joshi,aditya.joshi16@gmail.com,2026-01-20 12:00:00,Pune,Growing,3,2547.0,2026-06-27 06:22:00,MEDIUM,0.36
+C0140,Shreya Deshmukh,shreya.deshmukh68@gmail.com,2026-02-11 12:00:00,Chennai,Growing,2,1398.0,2026-08-24 23:16:00,MEDIUM,0.4
+C0141,Tarun Pillai,tarun.pillai45@gmail.com,2026-03-26 12:00:00,Kolkata,Growing,2,5798.0,2026-08-11 21:02:00,MEDIUM,0.45
+C0142,Diya Pandey,diya.pandey12@gmail.com,2026-07-07 12:00:00,Jaipur,Loyal,6,8844.0,2026-08-09 12:16:00,LOW,0.24
+C0143,Sneha Singhal,sneha.singhal93@gmail.com,2025-09-03 12:00:00,Mumbai,New,1,899.0,2026-07-13 14:17:00,MEDIUM,0.33
+C0144,Ananya Verma,ananya.verma41@gmail.com,2026-07-23 12:00:00,Hyderabad,Growing,5,6495.0,2026-08-22 10:22:00,MEDIUM,0.35
+C0145,Jatin Malhotra,jatin.malhotra40@gmail.com,2025-12-03 12:00:00,Delhi NCR,Loyal,4,8446.0,2026-07-09 18:07:00,LOW,0.27
+C0146,Mayank Rao,mayank.rao82@gmail.com,2025-12-07 12:00:00,Hyderabad,Loyal,6,14744.0,2026-08-07 19:08:00,LOW,0.19
+C0147,Omkar Agrawal,omkar.agrawal57@gmail.com,2025-09-26 12:00:00,Delhi NCR,Growing,3,5097.0,2026-08-09 11:55:00,MEDIUM,0.3
+C0148,Isha Rao,isha.rao30@gmail.com,2026-06-08 12:00:00,Pune,Loyal,4,11596.0,2026-07-16 03:40:00,LOW,0.16
+C0149,Harsh Verma,harsh.verma49@gmail.com,2025-08-21 12:00:00,Chandigarh,Loyal,5,11945.0,2026-08-12 05:49:00,LOW,0.28
+C0150,Varun Nambiar,varun.nambiar35@gmail.com,2025-10-03 12:00:00,Mumbai,At Risk,1,2999.0,2026-04-24 20:45:00,HIGH,0.79
+C0151,Omkar Bansal,omkar.bansal23@gmail.com,2025-08-17 12:00:00,Pune,Loyal,6,8844.0,2026-08-31 01:46:00,LOW,0.12
+C0152,Isha Rao,isha.rao82@gmail.com,2026-02-06 12:00:00,Bengaluru,At Risk,1,1499.0,2026-06-14 06:54:00,HIGH,0.68
+C0153,Chirag Hegde,chirag.hegde94@gmail.com,2026-06-28 12:00:00,Chennai,Growing,3,5997.0,2026-08-22 09:57:00,MEDIUM,0.36
+C0154,Aryan Das,aryan.das11@gmail.com,2025-11-25 12:00:00,Kolkata,Loyal,5,8645.0,2026-08-25 08:22:00,LOW,0.25
+C0155,Ishaan Hegde,ishaan.hegde56@gmail.com,2025-08-05 12:00:00,Ahmedabad,Growing,3,5047.0,2026-08-11 05:53:00,MEDIUM,0.3
+C0156,Meera Hegde,meera.hegde32@gmail.com,2025-09-03 12:00:00,Jaipur,Growing,4,7846.0,2026-08-13 06:19:00,MEDIUM,0.38
+C0157,Rohan Dutta,rohan.dutta78@gmail.com,2025-12-07 12:00:00,Ahmedabad,Loyal,7,14393.0,2026-07-29 09:34:00,LOW,0.25
+C0158,Zoya Choudhury,zoya.choudhury44@gmail.com,2026-03-30 12:00:00,Chennai,Growing,3,7597.0,2026-07-17 16:14:00,MEDIUM,0.4
+C0159,Diya Bhatia,diya.bhatia67@gmail.com,2025-12-08 12:00:00,Hyderabad,Growing,3,5997.0,2026-06-05 21:01:00,MEDIUM,0.45
+C0160,Gaurav Dutta,gaurav.dutta95@gmail.com,2026-02-11 12:00:00,Kolkata,Growing,5,7995.0,2026-08-31 04:56:00,MEDIUM,0.38
+C0161,Aditi Mishra,aditi.mishra51@gmail.com,2025-11-26 12:00:00,Delhi NCR,Growing,5,7395.0,2026-07-27 07:59:00,MEDIUM,0.32
+C0162,Pranav Sengupta,pranav.sengupta43@gmail.com,2026-03-12 12:00:00,Chennai,Growing,3,7697.0,2026-08-02 02:11:00,MEDIUM,0.3
+C0163,Isha Bhatia,isha.bhatia81@gmail.com,2025-11-11 12:00:00,Bengaluru,Loyal,3,8747.0,2026-07-19 13:26:00,LOW,0.26
+C0164,Pooja Nair,pooja.nair40@gmail.com,2025-11-25 12:00:00,Kolkata,At Risk,1,1699.0,2026-06-10 22:46:00,HIGH,0.68
+C0165,Deepika Bansal,deepika.bansal98@gmail.com,2025-09-06 12:00:00,Ahmedabad,Growing,5,6345.0,2026-08-04 00:42:00,MEDIUM,0.44
+C0166,Payal Mishra,payal.mishra67@gmail.com,2026-06-16 12:00:00,Bengaluru,Growing,2,4748.0,2026-08-26 15:54:00,MEDIUM,0.28
+C0167,Saanvi Singhal,saanvi.singhal61@gmail.com,2026-02-27 12:00:00,Hyderabad,New,1,749.0,2026-07-30 01:59:00,MEDIUM,0.46
+C0168,Mayank Choudhury,mayank.choudhury57@gmail.com,2025-10-23 12:00:00,Ahmedabad,Growing,4,7946.0,2026-08-09 18:22:00,MEDIUM,0.42
+C0169,Bhavya Sengupta,bhavya.sengupta64@gmail.com,2026-02-14 12:00:00,Jaipur,Growing,3,5697.0,2026-08-10 16:50:00,MEDIUM,0.35
+C0170,Sneha Trivedi,sneha.trivedi44@gmail.com,2026-03-27 12:00:00,Pune,Growing,2,2698.0,2026-06-17 19:17:00,MEDIUM,0.39
+C0171,Priya Rao,priya.rao34@gmail.com,2026-06-02 12:00:00,Chennai,At Risk,3,8797.0,2026-05-27 16:17:00,HIGH,0.71
+C0172,Sakshi Saxena,sakshi.saxena98@gmail.com,2026-04-26 12:00:00,Delhi NCR,Growing,4,7396.0,2026-08-07 08:41:00,MEDIUM,0.3
+C0173,Pranav Pandey,pranav.pandey45@gmail.com,2025-11-07 12:00:00,Chandigarh,Growing,5,7845.0,2026-06-24 19:49:00,MEDIUM,0.29
+C0174,Isha Kapoor,isha.kapoor22@gmail.com,2026-03-04 12:00:00,Hyderabad,Growing,2,2748.0,2026-06-30 23:00:00,MEDIUM,0.36
+C0175,Priya Menon,priya.menon32@gmail.com,2026-07-26 12:00:00,Pune,Churned,2,2648.0,2026-04-28 08:43:00,HIGH,0.95
+C0176,Payal Saxena,payal.saxena26@gmail.com,2026-07-10 12:00:00,Pune,Growing,4,6396.0,2026-07-09 18:21:00,MEDIUM,0.34
+C0177,Arjun Mathur,arjun.mathur47@gmail.com,2025-09-10 12:00:00,Delhi NCR,Growing,2,1598.0,2026-06-14 09:49:00,MEDIUM,0.26
+C0178,Tarun Mishra,tarun.mishra23@gmail.com,2025-10-13 12:00:00,Bengaluru,Loyal,5,9095.0,2026-08-21 10:03:00,LOW,0.14
+C0179,Saanvi Pandey,saanvi.pandey71@gmail.com,2026-02-09 12:00:00,Ahmedabad,Loyal,4,8046.0,2026-07-23 12:09:00,LOW,0.19
+C0180,Nikhil Mehta,nikhil.mehta42@gmail.com,2026-06-05 12:00:00,Ahmedabad,Loyal,6,15244.0,2026-08-27 09:16:00,LOW,0.24
+C0181,Dev Nambiar,dev.nambiar72@gmail.com,2025-10-11 12:00:00,Mumbai,Growing,3,6547.0,2026-06-10 14:53:00,MEDIUM,0.38
+C0182,Kunal Mehta,kunal.mehta29@gmail.com,2025-10-18 12:00:00,Delhi NCR,New,1,1999.0,2026-07-04 00:02:00,MEDIUM,0.33
+C0183,Samarth Nair,samarth.nair41@gmail.com,2025-10-21 12:00:00,Mumbai,Loyal,5,9895.0,2026-08-15 02:49:00,LOW,0.21
+C0184,Tarun Shetty,tarun.shetty87@gmail.com,2025-09-20 12:00:00,Chandigarh,Growing,2,2448.0,2026-07-26 18:51:00,MEDIUM,0.41
+C0185,Priya Tiwari,priya.tiwari58@gmail.com,2025-12-19 12:00:00,Ahmedabad,Growing,6,7894.0,2026-07-14 20:33:00,MEDIUM,0.41
+C0186,Samarth Choudhury,samarth.choudhury64@gmail.com,2025-10-15 12:00:00,Pune,Growing,3,4597.0,2026-06-23 11:34:00,MEDIUM,0.43
+C0187,Jatin Mehta,jatin.mehta88@gmail.com,2026-04-18 12:00:00,Mumbai,Loyal,4,8296.0,2026-07-31 07:58:00,LOW,0.12
+C0188,Kunal Deshmukh,kunal.deshmukh43@gmail.com,2026-05-14 12:00:00,Mumbai,At Risk,1,1299.0,2026-06-06 04:59:00,HIGH,0.76
+C0189,Rahul Joshi,rahul.joshi80@gmail.com,2026-05-14 12:00:00,Mumbai,Churned,3,4147.0,2026-05-10 17:40:00,HIGH,0.96
+C0190,Aarav Shetty,aarav.shetty67@gmail.com,2025-12-05 12:00:00,Chandigarh,New,1,2499.0,2026-07-26 19:22:00,MEDIUM,0.31
+C0191,Saanvi Patel,saanvi.patel39@gmail.com,2025-08-06 12:00:00,Pune,New,1,999.0,2026-06-18 12:17:00,MEDIUM,0.45
+C0192,Saanvi Trivedi,saanvi.trivedi19@gmail.com,2026-03-20 12:00:00,Hyderabad,Loyal,7,9943.0,2026-08-30 22:22:00,LOW,0.14
+C0193,Kunal Choudhury,kunal.choudhury94@gmail.com,2025-12-28 12:00:00,Hyderabad,Loyal,6,14744.0,2026-08-13 04:25:00,LOW,0.17
+C0194,Kavya Saxena,kavya.saxena38@gmail.com,2026-03-19 12:00:00,Delhi NCR,Churned,3,6597.0,2026-05-26 21:31:00,HIGH,0.91
+C0195,Meera Iyer,meera.iyer17@gmail.com,2026-02-26 12:00:00,Delhi NCR,Growing,4,7396.0,2026-07-28 19:41:00,MEDIUM,0.33
+C0196,Isha Srivastava,isha.srivastava46@gmail.com,2026-05-31 12:00:00,Ahmedabad,Growing,4,7396.0,2026-07-23 10:46:00,MEDIUM,0.37
+C0197,Aditya Chatterjee,aditya.chatterjee99@gmail.com,2026-03-16 12:00:00,Kolkata,Churned,3,7447.0,2026-03-31 10:44:00,HIGH,0.96
+C0198,Aryan Saxena,aryan.saxena73@gmail.com,2026-06-22 12:00:00,Ahmedabad,Growing,2,4298.0,2026-08-06 09:26:00,MEDIUM,0.39
+C0199,Isha Patel,isha.patel65@gmail.com,2025-09-27 12:00:00,Chennai,Loyal,9,12841.0,2026-08-27 01:07:00,LOW,0.28
+C0200,Rhea Verma,rhea.verma21@gmail.com,2025-08-22 12:00:00,Hyderabad,Loyal,10,17740.0,2026-08-04 08:56:00,LOW,0.25
+C0201,Gaurav Choudhury,gaurav.choudhury12@gmail.com,2025-10-11 12:00:00,Pune,Loyal,5,13445.0,2026-08-15 03:05:00,LOW,0.26
+C0202,Ananya Joshi,ananya.joshi70@gmail.com,2025-09-03 12:00:00,Jaipur,Loyal,8,15042.0,2026-08-03 07:48:00,LOW,0.28
+C0203,Kiran Bhatia,kiran.bhatia33@gmail.com,2025-12-22 12:00:00,Chandigarh,At Risk,1,1899.0,2026-05-23 08:23:00,HIGH,0.75
+C0204,Kunal Mishra,kunal.mishra21@gmail.com,2026-02-05 12:00:00,Ahmedabad,Growing,3,6297.0,2026-07-14 22:07:00,MEDIUM,0.31
+C0205,Vivek Das,vivek.das51@gmail.com,2026-05-12 12:00:00,Mumbai,Growing,2,5398.0,2026-07-15 09:15:00,MEDIUM,0.27
+C0206,Siddharth Shetty,siddharth.shetty98@gmail.com,2026-03-08 12:00:00,Ahmedabad,Growing,2,4198.0,2026-07-30 09:23:00,MEDIUM,0.35
+C0207,Mayank Nambiar,mayank.nambiar80@gmail.com,2025-12-13 12:00:00,Bengaluru,Growing,2,3598.0,2026-07-03 05:17:00,MEDIUM,0.36
+C0208,Diya Mukherjee,diya.mukherjee42@gmail.com,2026-06-04 12:00:00,Chennai,At Risk,4,10796.0,2026-06-24 15:24:00,HIGH,0.83
+C0209,Yash Nambiar,yash.nambiar75@gmail.com,2025-08-31 12:00:00,Bengaluru,Growing,3,2747.0,2026-07-27 11:37:00,MEDIUM,0.26
+C0210,Chirag Trivedi,chirag.trivedi62@gmail.com,2026-04-28 12:00:00,Bengaluru,At Risk,3,8697.0,2026-05-25 17:58:00,HIGH,0.82
+C0211,Bhavya Menon,bhavya.menon89@gmail.com,2025-09-16 12:00:00,Ahmedabad,Churned,2,2748.0,2026-05-21 07:02:00,HIGH,0.92
+C0212,Kiran Mehta,kiran.mehta36@gmail.com,2025-10-25 12:00:00,Pune,At Risk,3,9797.0,2026-06-27 00:43:00,HIGH,0.82
+C0213,Manish Kapoor,manish.kapoor66@gmail.com,2026-06-01 12:00:00,Ahmedabad,Growing,4,6996.0,2026-08-28 10:34:00,MEDIUM,0.31
+C0214,Aditi Bose,aditi.bose40@gmail.com,2026-02-24 12:00:00,Delhi NCR,Loyal,4,8646.0,2026-08-18 21:32:00,LOW,0.26
+C0215,Deepika Sharma,deepika.sharma80@gmail.com,2026-06-16 12:00:00,Kolkata,Growing,3,4397.0,2026-06-26 00:12:00,MEDIUM,0.34
+C0216,Priya Rao,priya.rao69@gmail.com,2025-09-05 12:00:00,Mumbai,Loyal,5,10295.0,2026-08-08 11:11:00,LOW,0.2
+C0217,Meera Mishra,meera.mishra47@gmail.com,2025-08-06 12:00:00,Jaipur,At Risk,1,749.0,2026-06-15 07:23:00,HIGH,0.78
+C0218,Rohan Shetty,rohan.shetty71@gmail.com,2026-03-31 12:00:00,Ahmedabad,Growing,3,2597.0,2026-08-11 04:57:00,MEDIUM,0.45
+C0219,Aditya Mathur,aditya.mathur28@gmail.com,2026-04-27 12:00:00,Kolkata,Growing,2,3648.0,2026-07-13 19:20:00,MEDIUM,0.32
+C0220,Isha Dubey,isha.dubey27@gmail.com,2026-03-14 12:00:00,Mumbai,At Risk,1,699.0,2026-06-16 17:48:00,HIGH,0.74
+C0221,Yash Shetty,yash.shetty53@gmail.com,2026-03-19 12:00:00,Jaipur,Loyal,6,12694.0,2026-08-24 19:58:00,LOW,0.17
+C0222,Aarav Kapoor,aarav.kapoor48@gmail.com,2025-10-10 12:00:00,Chandigarh,Loyal,9,14741.0,2026-08-28 05:16:00,LOW,0.27
+C0223,Mayank Mishra,mayank.mishra29@gmail.com,2025-10-31 12:00:00,Ahmedabad,Growing,2,5648.0,2026-08-17 22:03:00,MEDIUM,0.35
+C0224,Akash Sengupta,akash.sengupta52@gmail.com,2025-10-28 12:00:00,Jaipur,Loyal,6,12844.0,2026-08-04 14:25:00,LOW,0.27
+C0225,Varun Trivedi,varun.trivedi51@gmail.com,2025-08-10 12:00:00,Hyderabad,Loyal,3,9897.0,2026-07-06 09:43:00,LOW,0.16
+C0226,Rahul Srivastava,rahul.srivastava59@gmail.com,2026-01-04 12:00:00,Hyderabad,Loyal,5,11245.0,2026-07-31 21:21:00,LOW,0.23
+C0227,Ananya Mukherjee,ananya.mukherjee70@gmail.com,2026-01-17 12:00:00,Kolkata,Loyal,2,8498.0,2026-08-24 11:15:00,LOW,0.2
+C0228,Mayank Malhotra,mayank.malhotra73@gmail.com,2026-05-30 12:00:00,Bengaluru,Loyal,5,13195.0,2026-08-05 08:49:00,LOW,0.16
+C0229,Aryan Choudhury,aryan.choudhury52@gmail.com,2025-12-20 12:00:00,Mumbai,Growing,3,6747.0,2026-07-27 19:36:00,MEDIUM,0.29
+C0230,Ishaan Tiwari,ishaan.tiwari68@gmail.com,2025-07-29 12:00:00,Bengaluru,Loyal,4,9996.0,2026-08-26 05:20:00,LOW,0.15
+C0231,Meera Shetty,meera.shetty93@gmail.com,2026-06-25 12:00:00,Delhi NCR,Growing,3,7447.0,2026-07-24 00:54:00,MEDIUM,0.42
+C0232,Akash Agrawal,akash.agrawal53@gmail.com,2025-08-13 12:00:00,Chandigarh,Loyal,4,13896.0,2026-07-12 15:18:00,LOW,0.27
+C0233,Vikram Nair,vikram.nair52@gmail.com,2026-01-20 12:00:00,Jaipur,Growing,3,7097.0,2026-07-02 14:18:00,MEDIUM,0.28
+C0234,Shreya Mishra,shreya.mishra79@gmail.com,2025-09-20 12:00:00,Bengaluru,New,1,4999.0,2026-08-22 06:07:00,MEDIUM,0.41
+C0235,Dev Bansal,dev.bansal90@gmail.com,2026-04-08 12:00:00,Pune,Growing,2,5698.0,2026-07-05 21:45:00,MEDIUM,0.32
+C0236,Sakshi Nair,sakshi.nair65@gmail.com,2025-09-12 12:00:00,Mumbai,Growing,3,6497.0,2026-07-30 15:20:00,MEDIUM,0.36
+C0237,Payal Reddy,payal.reddy66@gmail.com,2025-08-12 12:00:00,Delhi NCR,Loyal,5,13945.0,2026-08-18 14:13:00,LOW,0.27
+C0238,Samarth Verma,samarth.verma15@gmail.com,2026-07-05 12:00:00,Chennai,Loyal,3,8897.0,2026-07-03 21:52:00,LOW,0.19
+C0239,Saanvi Sengupta,saanvi.sengupta57@gmail.com,2026-05-20 12:00:00,Kolkata,Growing,2,7898.0,2026-06-19 14:38:00,MEDIUM,0.25
+C0240,Rahul Tiwari,rahul.tiwari62@gmail.com,2025-08-18 12:00:00,Chandigarh,Growing,2,5698.0,2026-07-17 05:08:00,MEDIUM,0.42
+C0241,Nikhil Chopra,nikhil.chopra32@gmail.com,2025-09-24 12:00:00,Mumbai,Growing,2,6198.0,2026-06-21 07:17:00,MEDIUM,0.43
+C0242,Varun Dutta,varun.dutta97@gmail.com,2025-11-21 12:00:00,Hyderabad,Loyal,5,16895.0,2026-08-12 17:03:00,LOW,0.16
+C0243,Harsh Malhotra,harsh.malhotra39@gmail.com,2025-09-10 12:00:00,Ahmedabad,Loyal,3,8497.0,2026-08-12 11:14:00,LOW,0.22
+C0244,Rhea Trivedi,rhea.trivedi42@gmail.com,2025-12-07 12:00:00,Bengaluru,Loyal,3,10997.0,2026-07-14 10:55:00,LOW,0.27
+C0245,Saanvi Saxena,saanvi.saxena30@gmail.com,2025-12-19 12:00:00,Mumbai,Loyal,3,8997.0,2026-08-01 03:40:00,LOW,0.21
+C0246,Sneha Choudhury,sneha.choudhury48@gmail.com,2025-08-14 12:00:00,Kolkata,Loyal,3,8897.0,2026-08-16 10:30:00,LOW,0.21
+C0247,Rhea Trivedi,rhea.trivedi48@gmail.com,2026-01-18 12:00:00,Hyderabad,At Risk,4,9046.0,2026-06-23 02:24:00,HIGH,0.83
+C0248,Akash Reddy,akash.reddy40@gmail.com,2025-10-14 12:00:00,Kolkata,Loyal,5,15145.0,2026-07-23 22:27:00,LOW,0.27
+C0249,Sneha Srivastava,sneha.srivastava47@gmail.com,2026-07-22 12:00:00,Pune,Loyal,4,8796.0,2026-08-08 20:01:00,LOW,0.19
+C0250,Mayank Nambiar,mayank.nambiar45@gmail.com,2025-10-17 12:00:00,Bengaluru,Loyal,6,17894.0,2026-08-19 08:39:00,LOW,0.13
+C0251,Nandini Mehta,nandini.mehta87@gmail.com,2026-03-09 12:00:00,Ahmedabad,Loyal,3,12997.0,2026-08-21 02:43:00,LOW,0.19
+C0252,Yash Singhal,yash.singhal87@gmail.com,2026-04-12 12:00:00,Chennai,Loyal,4,9896.0,2026-08-09 02:24:00,LOW,0.22
+C0253,Kunal Kulkarni,kunal.kulkarni89@gmail.com,2025-08-20 12:00:00,Pune,Loyal,3,9497.0,2026-08-04 11:57:00,LOW,0.22
+C0254,Tarun Gupta,tarun.gupta90@gmail.com,2025-09-15 12:00:00,Mumbai,New,1,4999.0,2026-07-24 10:16:00,MEDIUM,0.34
+C0255,Lakshmi Patel,lakshmi.patel49@gmail.com,2026-07-16 12:00:00,Ahmedabad,VIP,7,21593.0,2026-08-13 04:43:00,LOW,0.06
+C0256,Harsh Menon,harsh.menon26@gmail.com,2026-03-04 12:00:00,Mumbai,Loyal,6,13894.0,2026-08-20 14:42:00,LOW,0.27
+C0257,Shreya Shetty,shreya.shetty32@gmail.com,2026-05-27 12:00:00,Hyderabad,Loyal,2,8898.0,2026-08-19 19:26:00,LOW,0.13
+C0258,Chirag Menon,chirag.menon77@gmail.com,2026-03-16 12:00:00,Jaipur,Loyal,3,8597.0,2026-08-19 13:45:00,LOW,0.26
+C0259,Neha Agrawal,neha.agrawal71@gmail.com,2026-02-10 12:00:00,Pune,At Risk,5,12095.0,2026-06-25 09:32:00,HIGH,0.74
+C0260,Kavya Trivedi,kavya.trivedi19@gmail.com,2026-04-09 12:00:00,Delhi NCR,Loyal,5,15695.0,2026-07-12 11:17:00,LOW,0.2
+C0261,Nandini Nambiar,nandini.nambiar81@gmail.com,2026-06-17 12:00:00,Chennai,Loyal,4,12546.0,2026-08-06 09:35:00,LOW,0.23
+C0262,Vikram Sharma,vikram.sharma43@gmail.com,2026-05-31 12:00:00,Jaipur,Loyal,5,9445.0,2026-08-10 13:26:00,LOW,0.16
+C0263,Aditya Menon,aditya.menon96@gmail.com,2025-10-07 12:00:00,Pune,Growing,2,5748.0,2026-07-18 11:35:00,MEDIUM,0.44
+C0264,Varun Menon,varun.menon23@gmail.com,2025-12-04 12:00:00,Hyderabad,Loyal,6,15444.0,2026-07-31 19:10:00,LOW,0.2
+C0265,Aditi Dutta,aditi.dutta81@gmail.com,2025-09-24 12:00:00,Chennai,Loyal,8,18442.0,2026-08-24 17:40:00,LOW,0.26
+C0266,Priya Iyer,priya.iyer91@gmail.com,2025-08-09 12:00:00,Ahmedabad,Loyal,2,8498.0,2026-08-19 04:03:00,LOW,0.18
+C0267,Samarth Shetty,samarth.shetty24@gmail.com,2026-07-10 12:00:00,Delhi NCR,Loyal,4,10096.0,2026-08-23 20:31:00,LOW,0.21
+C0268,Ananya Chatterjee,ananya.chatterjee73@gmail.com,2026-06-14 12:00:00,Mumbai,Growing,2,5648.0,2026-07-13 23:41:00,MEDIUM,0.3
+C0269,Rahul Saxena,rahul.saxena27@gmail.com,2025-12-13 12:00:00,Kolkata,Loyal,5,15195.0,2026-08-17 16:23:00,LOW,0.19
+C0270,Tanvi Saxena,tanvi.saxena63@gmail.com,2026-05-15 12:00:00,Chandigarh,Loyal,5,10895.0,2026-08-07 12:39:00,LOW,0.22
+C0271,Vivek Reddy,vivek.reddy72@gmail.com,2026-01-06 12:00:00,Chandigarh,Loyal,5,14945.0,2026-08-21 03:56:00,LOW,0.17
+C0272,Rohan Patel,rohan.patel98@gmail.com,2026-04-13 12:00:00,Chennai,Loyal,4,12096.0,2026-08-16 09:05:00,LOW,0.26
+C0273,Kiran Bhatt,kiran.bhatt40@gmail.com,2026-06-13 12:00:00,Chennai,Loyal,4,11346.0,2026-08-17 20:35:00,LOW,0.24
+C0274,Nandini Menon,nandini.menon79@gmail.com,2026-07-02 12:00:00,Chennai,Loyal,8,17492.0,2026-08-11 20:50:00,LOW,0.13
+C0275,Vikram Bhatia,vikram.bhatia34@gmail.com,2025-12-13 12:00:00,Mumbai,Loyal,8,13142.0,2026-08-22 10:41:00,LOW,0.21
+C0276,Diya Deshmukh,diya.deshmukh92@gmail.com,2026-07-23 12:00:00,Chandigarh,Loyal,9,18441.0,2026-08-22 13:09:00,LOW,0.12
+C0277,Arjun Das,arjun.das41@gmail.com,2025-10-17 12:00:00,Delhi NCR,Loyal,3,8997.0,2026-08-20 19:50:00,LOW,0.14
+C0278,Pranav Iyer,pranav.iyer80@gmail.com,2025-10-06 12:00:00,Hyderabad,Growing,3,7047.0,2026-07-07 00:59:00,MEDIUM,0.41
+C0279,Pranav Singhal,pranav.singhal52@gmail.com,2025-10-01 12:00:00,Delhi NCR,Loyal,9,19591.0,2026-07-16 09:28:00,LOW,0.15
+C0280,Aarav Bhatia,aarav.bhatia28@gmail.com,2025-10-30 12:00:00,Delhi NCR,Growing,3,6947.0,2026-07-23 15:08:00,MEDIUM,0.31
+C0281,Rhea Joshi,rhea.joshi24@gmail.com,2026-05-27 12:00:00,Bengaluru,Loyal,7,16343.0,2026-08-11 02:05:00,LOW,0.25
+C0282,Aarav Sengupta,aarav.sengupta40@gmail.com,2026-02-18 12:00:00,Chandigarh,Loyal,4,9696.0,2026-08-01 08:32:00,LOW,0.17
+C0283,Aditi Joshi,aditi.joshi43@gmail.com,2026-05-30 12:00:00,Bengaluru,Loyal,4,8296.0,2026-08-29 07:05:00,LOW,0.19
+C0284,Sakshi Shetty,sakshi.shetty77@gmail.com,2026-07-01 12:00:00,Mumbai,Growing,2,6298.0,2026-08-03 06:58:00,MEDIUM,0.28
+C0285,Akash Bhatt,akash.bhatt56@gmail.com,2025-10-03 12:00:00,Jaipur,Loyal,5,10395.0,2026-08-17 13:51:00,LOW,0.22
+C0286,Ishaan Bhatt,ishaan.bhatt74@gmail.com,2025-09-22 12:00:00,Hyderabad,Loyal,4,9696.0,2026-07-28 12:05:00,LOW,0.2
+C0287,Ananya Tiwari,ananya.tiwari48@gmail.com,2025-09-07 12:00:00,Ahmedabad,Loyal,5,9695.0,2026-08-12 08:27:00,LOW,0.2
+C0288,Aditi Mehta,aditi.mehta71@gmail.com,2025-12-27 12:00:00,Kolkata,Loyal,7,16543.0,2026-08-08 00:02:00,LOW,0.19
+C0289,Nandini Reddy,nandini.reddy72@gmail.com,2026-06-26 12:00:00,Ahmedabad,Loyal,3,11897.0,2026-08-09 21:02:00,LOW,0.28
+C0290,Diya Mukherjee,diya.mukherjee87@gmail.com,2026-06-30 12:00:00,Delhi NCR,Loyal,5,12745.0,2026-07-31 08:18:00,LOW,0.27
+C0291,Manish Bhatia,manish.bhatia89@gmail.com,2025-10-26 12:00:00,Chandigarh,Loyal,4,8046.0,2026-08-11 13:45:00,LOW,0.18
+C0292,Payal Mukherjee,payal.mukherjee58@gmail.com,2025-11-04 12:00:00,Chandigarh,Loyal,5,12845.0,2026-08-26 22:23:00,LOW,0.19
+C0293,Saanvi Trivedi,saanvi.trivedi74@gmail.com,2025-12-25 12:00:00,Chandigarh,Growing,3,7747.0,2026-07-22 20:34:00,MEDIUM,0.37
+C0294,Ishaan Rao,ishaan.rao93@gmail.com,2025-07-29 12:00:00,Jaipur,Growing,3,7197.0,2026-08-13 01:59:00,MEDIUM,0.34
+C0295,Pranav Hegde,pranav.hegde67@gmail.com,2026-01-03 12:00:00,Hyderabad,Loyal,6,15044.0,2026-08-22 13:40:00,LOW,0.27
+C0296,Siddharth Trivedi,siddharth.trivedi61@gmail.com,2026-06-15 12:00:00,Kolkata,Loyal,5,14545.0,2026-08-08 23:32:00,LOW,0.23
+C0297,Shreya Hegde,shreya.hegde50@gmail.com,2026-01-23 12:00:00,Pune,New,1,4999.0,2026-08-10 15:17:00,MEDIUM,0.36
+C0298,Meera Pandey,meera.pandey18@gmail.com,2026-06-20 12:00:00,Mumbai,Loyal,2,9998.0,2026-07-21 14:12:00,LOW,0.27
+C0299,Diya Hegde,diya.hegde22@gmail.com,2026-05-28 12:00:00,Chennai,Loyal,4,9046.0,2026-08-04 07:16:00,LOW,0.17
+C0300,Deepika Mehta,deepika.mehta85@gmail.com,2025-10-19 12:00:00,Jaipur,Loyal,6,12244.0,2026-08-23 12:31:00,LOW,0.17
+C0301,Siddharth Rao,siddharth.rao62@gmail.com,2025-08-27 12:00:00,Chennai,Loyal,5,12695.0,2026-08-04 01:08:00,LOW,0.21
+C0302,Tarun Hegde,tarun.hegde16@gmail.com,2025-09-29 12:00:00,Pune,Loyal,6,16394.0,2026-08-25 01:33:00,LOW,0.28
+C0303,Samarth Sengupta,samarth.sengupta23@gmail.com,2025-11-16 12:00:00,Chandigarh,Loyal,5,10195.0,2026-08-10 17:58:00,LOW,0.12
+C0304,Pranav Malhotra,pranav.malhotra94@gmail.com,2026-04-10 12:00:00,Ahmedabad,VIP,6,20594.0,2026-08-12 21:34:00,LOW,0.09
+C0305,Ishaan Sengupta,ishaan.sengupta81@gmail.com,2026-06-05 12:00:00,Chennai,Growing,2,5998.0,2026-08-14 16:39:00,MEDIUM,0.43
+C0306,Tarun Bhatia,tarun.bhatia83@gmail.com,2025-12-26 12:00:00,Hyderabad,At Risk,4,11896.0,2026-06-18 14:41:00,HIGH,0.74
+C0307,Deepika Dutta,deepika.dutta88@gmail.com,2026-07-20 12:00:00,Jaipur,Growing,2,7898.0,2026-08-21 06:42:00,MEDIUM,0.38
+C0308,Isha Bhatia,isha.bhatia13@gmail.com,2026-03-16 12:00:00,Delhi NCR,Loyal,7,16593.0,2026-08-29 23:59:00,LOW,0.14
+C0309,Omkar Chatterjee,omkar.chatterjee53@gmail.com,2026-07-30 12:00:00,Chennai,Loyal,5,8545.0,2026-08-12 15:34:00,LOW,0.23
+C0310,Nikhil Malhotra,nikhil.malhotra82@gmail.com,2026-06-28 12:00:00,Kolkata,Loyal,3,9197.0,2026-07-09 04:23:00,LOW,0.13
+C0311,Meera Verma,meera.verma21@gmail.com,2026-04-14 12:00:00,Jaipur,At Risk,8,20342.0,2026-06-26 16:33:00,HIGH,0.8
+C0312,Varun Shetty,varun.shetty68@gmail.com,2026-05-14 12:00:00,Chennai,Loyal,3,11397.0,2026-07-31 18:20:00,LOW,0.2
+C0313,Tanvi Chatterjee,tanvi.chatterjee51@gmail.com,2025-10-01 12:00:00,Chandigarh,Loyal,5,8995.0,2026-08-19 07:08:00,LOW,0.26
+C0314,Diya Mehta,diya.mehta29@gmail.com,2025-09-20 12:00:00,Delhi NCR,Loyal,4,13296.0,2026-08-09 10:52:00,LOW,0.27
+C0315,Arjun Nair,arjun.nair44@gmail.com,2025-08-29 12:00:00,Ahmedabad,Loyal,5,10895.0,2026-08-13 02:21:00,LOW,0.17
+C0316,Zoya Mishra,zoya.mishra87@gmail.com,2026-01-02 12:00:00,Ahmedabad,New,1,4999.0,2026-08-08 16:14:00,MEDIUM,0.31
+C0317,Rohan Deshmukh,rohan.deshmukh75@gmail.com,2026-02-07 12:00:00,Mumbai,Loyal,3,11397.0,2026-07-03 19:22:00,LOW,0.16
+C0318,Zoya Rao,zoya.rao46@gmail.com,2025-11-26 12:00:00,Chandigarh,Loyal,5,12395.0,2026-08-01 23:00:00,LOW,0.18
+C0319,Bhavya Chatterjee,bhavya.chatterjee15@gmail.com,2026-01-12 12:00:00,Hyderabad,Growing,2,5998.0,2026-07-23 18:17:00,MEDIUM,0.28
+C0320,Isha Mehta,isha.mehta10@gmail.com,2026-03-01 12:00:00,Hyderabad,Loyal,3,8747.0,2026-07-08 19:44:00,LOW,0.17
+C0321,Pranav Gupta,pranav.gupta42@gmail.com,2026-02-16 12:00:00,Pune,Loyal,5,10445.0,2026-08-06 23:12:00,LOW,0.24
+C0322,Kavya Sharma,kavya.sharma73@gmail.com,2026-05-05 12:00:00,Kolkata,Loyal,4,9396.0,2026-08-06 04:24:00,LOW,0.23
+C0323,Manish Pillai,manish.pillai78@gmail.com,2025-11-19 12:00:00,Hyderabad,Loyal,5,10395.0,2026-07-31 04:14:00,LOW,0.18
+C0324,Deepika Sengupta,deepika.sengupta19@gmail.com,2026-07-12 12:00:00,Kolkata,Growing,3,7647.0,2026-07-04 13:26:00,MEDIUM,0.41
+C0325,Zoya Verma,zoya.verma68@gmail.com,2026-02-23 12:00:00,Mumbai,Growing,2,6298.0,2026-07-14 01:16:00,MEDIUM,0.26
+C0326,Gaurav Hegde,gaurav.hegde83@gmail.com,2025-08-04 12:00:00,Kolkata,Loyal,3,10397.0,2026-07-11 13:53:00,LOW,0.19
+C0327,Kunal Shetty,kunal.shetty47@gmail.com,2026-01-07 12:00:00,Mumbai,Loyal,4,9596.0,2026-08-24 01:46:00,LOW,0.23
+C0328,Aditi Mukherjee,aditi.mukherjee31@gmail.com,2025-12-10 12:00:00,Chandigarh,Loyal,5,14495.0,2026-08-02 13:45:00,LOW,0.2
+C0329,Omkar Menon,omkar.menon21@gmail.com,2026-06-09 12:00:00,Kolkata,VIP,12,29988.0,2026-08-18 13:37:00,LOW,0.18
+C0330,Rahul Hegde,rahul.hegde85@gmail.com,2025-11-07 12:00:00,Kolkata,Loyal,4,8896.0,2026-07-30 10:59:00,LOW,0.15
+C0331,Diya Nambiar,diya.nambiar49@gmail.com,2026-04-11 12:00:00,Chennai,Loyal,5,18495.0,2026-08-13 06:01:00,LOW,0.24
+C0332,Siddharth Chopra,siddharth.chopra19@gmail.com,2025-09-12 12:00:00,Jaipur,Loyal,5,9195.0,2026-08-27 14:56:00,LOW,0.18
+C0333,Kavya Tiwari,kavya.tiwari75@gmail.com,2026-02-05 12:00:00,Hyderabad,At Risk,3,12397.0,2026-06-25 19:33:00,HIGH,0.75
+C0334,Sneha Malhotra,sneha.malhotra40@gmail.com,2026-05-20 12:00:00,Mumbai,Loyal,4,13796.0,2026-08-10 01:15:00,LOW,0.26
+C0335,Rhea Kulkarni,rhea.kulkarni32@gmail.com,2026-05-16 12:00:00,Chandigarh,Loyal,7,14943.0,2026-08-14 12:17:00,LOW,0.22
+C0336,Tarun Iyer,tarun.iyer32@gmail.com,2025-12-08 12:00:00,Ahmedabad,Loyal,5,13145.0,2026-07-31 01:14:00,LOW,0.23
+C0337,Tarun Srivastava,tarun.srivastava84@gmail.com,2025-08-19 12:00:00,Ahmedabad,Growing,2,5898.0,2026-07-27 20:23:00,MEDIUM,0.27
+C0338,Gaurav Dutta,gaurav.dutta51@gmail.com,2026-05-17 12:00:00,Chennai,Loyal,4,11046.0,2026-08-21 08:37:00,LOW,0.25
+C0339,Kiran Iyer,kiran.iyer70@gmail.com,2025-09-13 12:00:00,Ahmedabad,Loyal,3,9697.0,2026-08-08 22:35:00,LOW,0.18
+C0340,Samarth Bhatia,samarth.bhatia85@gmail.com,2026-02-03 12:00:00,Bengaluru,Loyal,8,15292.0,2026-08-06 23:24:00,LOW,0.17
+C0341,Aryan Iyer,aryan.iyer49@gmail.com,2025-12-14 12:00:00,Ahmedabad,Loyal,5,10495.0,2026-08-17 00:22:00,LOW,0.17
+C0342,Ananya Mehta,ananya.mehta57@gmail.com,2026-06-24 12:00:00,Pune,At Risk,5,9845.0,2026-06-28 20:34:00,HIGH,0.72
+C0343,Lakshmi Nair,lakshmi.nair88@gmail.com,2025-11-16 12:00:00,Chandigarh,Loyal,4,8846.0,2026-08-02 01:14:00,LOW,0.25
+C0344,Varun Trivedi,varun.trivedi84@gmail.com,2026-07-12 12:00:00,Jaipur,At Risk,5,17295.0,2026-07-01 02:50:00,HIGH,0.71
+C0345,Kiran Srivastava,kiran.srivastava93@gmail.com,2026-02-19 12:00:00,Hyderabad,At Risk,5,10795.0,2026-06-27 16:13:00,HIGH,0.82
+C0346,Isha Pandey,isha.pandey74@gmail.com,2026-07-02 12:00:00,Delhi NCR,Loyal,6,13244.0,2026-08-24 14:57:00,LOW,0.14
+C0347,Kiran Reddy,kiran.reddy53@gmail.com,2025-11-17 12:00:00,Mumbai,Loyal,5,14195.0,2026-08-19 01:50:00,LOW,0.22
+C0348,Lakshmi Joshi,lakshmi.joshi15@gmail.com,2025-08-05 12:00:00,Hyderabad,Growing,4,7246.0,2026-07-14 15:19:00,MEDIUM,0.4
+C0349,Kiran Bhatt,kiran.bhatt77@gmail.com,2025-09-24 12:00:00,Jaipur,Loyal,4,11446.0,2026-08-23 17:32:00,LOW,0.26
+C0350,Neha Menon,neha.menon57@gmail.com,2026-01-16 12:00:00,Pune,At Risk,5,12295.0,2026-07-01 20:58:00,HIGH,0.77
+C0351,Vivek Das,vivek.das96@gmail.com,2026-07-07 12:00:00,Chandigarh,Loyal,5,11945.0,2026-07-10 14:52:00,LOW,0.12
+C0352,Kunal Das,kunal.das18@gmail.com,2026-06-15 12:00:00,Chennai,Loyal,4,8896.0,2026-08-26 09:00:00,LOW,0.24
+C0353,Deepika Pillai,deepika.pillai46@gmail.com,2025-07-28 12:00:00,Pune,VIP,10,21790.0,2026-08-27 14:45:00,LOW,0.12
+C0354,Mayank Bose,mayank.bose29@gmail.com,2026-06-22 12:00:00,Chennai,Growing,2,6998.0,2026-08-23 15:55:00,MEDIUM,0.31
+C0355,Harsh Malhotra,harsh.malhotra54@gmail.com,2025-09-01 12:00:00,Pune,Loyal,4,8346.0,2026-08-27 02:18:00,LOW,0.13
+C0356,Omkar Nambiar,omkar.nambiar26@gmail.com,2025-08-05 12:00:00,Chandigarh,Growing,2,5848.0,2026-08-21 02:37:00,MEDIUM,0.41
+C0357,Diya Chatterjee,diya.chatterjee81@gmail.com,2025-09-07 12:00:00,Kolkata,Loyal,4,11896.0,2026-07-13 01:27:00,LOW,0.18
+C0358,Siddharth Gupta,siddharth.gupta95@gmail.com,2026-06-16 12:00:00,Jaipur,Loyal,8,18142.0,2026-08-07 22:56:00,LOW,0.26
+C0359,Lakshmi Hegde,lakshmi.hegde75@gmail.com,2026-07-24 12:00:00,Chennai,Growing,2,6998.0,2026-06-18 00:31:00,MEDIUM,0.28
+C0360,Tanvi Chatterjee,tanvi.chatterjee33@gmail.com,2026-02-09 12:00:00,Hyderabad,Loyal,4,11196.0,2026-08-14 05:56:00,LOW,0.27
+C0361,Yash Mishra,yash.mishra34@gmail.com,2026-05-24 12:00:00,Hyderabad,Growing,2,6698.0,2026-07-22 05:07:00,MEDIUM,0.41
+C0362,Meera Iyer,meera.iyer47@gmail.com,2025-11-16 12:00:00,Mumbai,Loyal,4,10096.0,2026-07-26 09:56:00,LOW,0.24
+C0363,Yash Saxena,yash.saxena77@gmail.com,2025-08-29 12:00:00,Bengaluru,Loyal,4,8546.0,2026-08-20 00:18:00,LOW,0.17
+C0364,Siddharth Dutta,siddharth.dutta26@gmail.com,2026-01-22 12:00:00,Chandigarh,Loyal,3,10747.0,2026-08-15 22:07:00,LOW,0.28
+C0365,Meera Chopra,meera.chopra33@gmail.com,2026-05-10 12:00:00,Chandigarh,Loyal,6,10544.0,2026-07-17 10:53:00,LOW,0.12
+C0366,Rajesh Bhatt,rajesh.bhatt15@gmail.com,2026-01-28 12:00:00,Kolkata,At Risk,3,9497.0,2026-06-25 18:27:00,HIGH,0.81
+C0367,Nandini Bansal,nandini.bansal66@gmail.com,2026-03-10 12:00:00,Chandigarh,Loyal,4,8946.0,2026-08-28 13:22:00,LOW,0.21
+C0368,Tarun Bhatt,tarun.bhatt39@gmail.com,2026-04-02 12:00:00,Jaipur,Growing,2,5848.0,2026-08-05 05:00:00,MEDIUM,0.45
+C0369,Samarth Pandey,samarth.pandey34@gmail.com,2025-08-20 12:00:00,Chennai,Growing,2,5998.0,2026-08-17 13:12:00,MEDIUM,0.34
+C0370,Gaurav Bhatt,gaurav.bhatt69@gmail.com,2026-01-19 12:00:00,Pune,Loyal,5,8595.0,2026-08-30 17:13:00,LOW,0.17
+C0371,Aryan Tiwari,aryan.tiwari63@gmail.com,2026-04-22 12:00:00,Delhi NCR,Loyal,9,15041.0,2026-08-05 15:34:00,LOW,0.25
+C0372,Isha Gupta,isha.gupta42@gmail.com,2025-09-08 12:00:00,Bengaluru,Growing,2,5898.0,2026-08-03 10:45:00,MEDIUM,0.41
+C0373,Akash Menon,akash.menon80@gmail.com,2025-08-03 12:00:00,Mumbai,Growing,3,6347.0,2026-08-09 19:12:00,MEDIUM,0.37
+C0374,Bhavya Rao,bhavya.rao46@gmail.com,2026-05-12 12:00:00,Mumbai,Loyal,3,8697.0,2026-08-17 18:48:00,LOW,0.13
+C0375,Rohan Bhatt,rohan.bhatt75@gmail.com,2025-12-22 12:00:00,Delhi NCR,Loyal,7,15943.0,2026-08-18 08:24:00,LOW,0.25
+C0376,Diya Singhal,diya.singhal67@gmail.com,2026-07-20 12:00:00,Chennai,Loyal,3,8897.0,2026-07-26 08:54:00,LOW,0.13
+C0377,Vivek Mehta,vivek.mehta60@gmail.com,2026-01-23 12:00:00,Jaipur,Loyal,5,13395.0,2026-08-26 02:34:00,LOW,0.21
+C0378,Rahul Pillai,rahul.pillai20@gmail.com,2026-04-10 12:00:00,Chennai,Loyal,5,13345.0,2026-08-09 13:04:00,LOW,0.13
+C0379,Aditi Mukherjee,aditi.mukherjee22@gmail.com,2026-05-20 12:00:00,Chennai,At Risk,4,10046.0,2026-07-01 12:44:00,HIGH,0.81
+C0380,Manish Patel,manish.patel46@gmail.com,2025-08-11 12:00:00,Ahmedabad,Loyal,4,9896.0,2026-08-22 04:00:00,LOW,0.23
+C0381,Manish Pandey,manish.pandey67@gmail.com,2026-07-31 12:00:00,Chandigarh,Growing,3,7397.0,2026-08-11 22:37:00,MEDIUM,0.32
+C0382,Diya Verma,diya.verma42@gmail.com,2026-05-18 12:00:00,Hyderabad,Loyal,3,10097.0,2026-08-22 04:16:00,LOW,0.21
+C0383,Deepika Bose,deepika.bose77@gmail.com,2026-06-07 12:00:00,Kolkata,Loyal,4,11696.0,2026-08-09 23:10:00,LOW,0.21
+C0384,Yash Kapoor,yash.kapoor40@gmail.com,2026-06-01 12:00:00,Pune,Loyal,6,14994.0,2026-07-31 10:54:00,LOW,0.13
+C0385,Arjun Bansal,arjun.bansal63@gmail.com,2025-12-11 12:00:00,Chandigarh,Loyal,3,9547.0,2026-07-28 23:22:00,LOW,0.12
+C0386,Dev Rao,dev.rao73@gmail.com,2025-11-01 12:00:00,Chandigarh,Loyal,6,16794.0,2026-08-01 21:35:00,LOW,0.27
+C0387,Aditi Dubey,aditi.dubey83@gmail.com,2025-07-31 12:00:00,Hyderabad,Loyal,9,15341.0,2026-08-31 02:31:00,LOW,0.2
+C0388,Meera Kapoor,meera.kapoor64@gmail.com,2025-09-22 12:00:00,Bengaluru,Loyal,4,11846.0,2026-07-27 22:45:00,LOW,0.27
+C0389,Sneha Bansal,sneha.bansal83@gmail.com,2026-04-29 12:00:00,Kolkata,Loyal,4,14246.0,2026-08-20 11:28:00,LOW,0.13
+C0390,Mayank Nair,mayank.nair77@gmail.com,2026-06-29 12:00:00,Chennai,Growing,3,6547.0,2026-07-31 09:49:00,MEDIUM,0.41
+C0391,Bhavya Saxena,bhavya.saxena74@gmail.com,2025-10-23 12:00:00,Jaipur,Loyal,5,11695.0,2026-08-18 21:00:00,LOW,0.22
+C0392,Aditi Pillai,aditi.pillai70@gmail.com,2025-09-11 12:00:00,Bengaluru,Loyal,5,15295.0,2026-07-22 05:03:00,LOW,0.26
+C0393,Varun Menon,varun.menon42@gmail.com,2026-02-01 12:00:00,Bengaluru,At Risk,5,11695.0,2026-06-27 09:52:00,HIGH,0.75
+C0394,Dev Sengupta,dev.sengupta40@gmail.com,2025-10-09 12:00:00,Mumbai,Loyal,6,12844.0,2026-08-10 10:43:00,LOW,0.19
+C0395,Sakshi Das,sakshi.das27@gmail.com,2026-02-03 12:00:00,Bengaluru,Growing,3,7497.0,2026-07-31 06:38:00,MEDIUM,0.27
+C0396,Chirag Das,chirag.das92@gmail.com,2025-08-17 12:00:00,Delhi NCR,Loyal,2,8898.0,2026-08-18 21:25:00,LOW,0.26
+C0397,Aditya Pandey,aditya.pandey90@gmail.com,2026-05-25 12:00:00,Delhi NCR,New,1,4999.0,2026-07-10 19:34:00,MEDIUM,0.32
+C0398,Dev Trivedi,dev.trivedi14@gmail.com,2026-04-21 12:00:00,Pune,At Risk,5,15895.0,2026-06-29 04:25:00,HIGH,0.84
+C0399,Ananya Kulkarni,ananya.kulkarni15@gmail.com,2026-02-25 12:00:00,Chennai,Loyal,3,10297.0,2026-07-14 20:52:00,LOW,0.14
+C0400,Aryan Nambiar,aryan.nambiar79@gmail.com,2026-03-26 12:00:00,Ahmedabad,Loyal,3,11797.0,2026-08-29 04:40:00,LOW,0.25
+C0401,Ananya Kulkarni,ananya.kulkarni46@gmail.com,2026-07-09 12:00:00,Chennai,Loyal,4,9846.0,2026-08-12 19:14:00,LOW,0.24
+C0402,Lakshmi Das,lakshmi.das44@gmail.com,2026-01-26 12:00:00,Mumbai,Loyal,7,12443.0,2026-07-31 13:55:00,LOW,0.24
+C0403,Zoya Nambiar,zoya.nambiar66@gmail.com,2026-02-10 12:00:00,Kolkata,Growing,3,7697.0,2026-08-13 04:05:00,MEDIUM,0.3
+C0404,Nikhil Mishra,nikhil.mishra98@gmail.com,2026-01-26 12:00:00,Ahmedabad,Growing,4,7796.0,2026-08-21 05:59:00,MEDIUM,0.41
+C0405,Bhavya Bhatia,bhavya.bhatia20@gmail.com,2026-06-23 12:00:00,Kolkata,Loyal,5,8795.0,2026-08-15 12:19:00,LOW,0.23
+C0406,Zoya Bose,zoya.bose33@gmail.com,2026-03-05 12:00:00,Jaipur,Loyal,5,13795.0,2026-08-25 19:00:00,LOW,0.2
+C0407,Shreya Reddy,shreya.reddy20@gmail.com,2025-08-29 12:00:00,Chennai,Loyal,5,11845.0,2026-07-20 02:17:00,LOW,0.15
+C0408,Saanvi Chatterjee,saanvi.chatterjee67@gmail.com,2025-07-31 12:00:00,Chandigarh,Loyal,10,16540.0,2026-08-15 02:46:00,LOW,0.22
+C0409,Zoya Chopra,zoya.chopra98@gmail.com,2026-02-04 12:00:00,Ahmedabad,Loyal,8,16642.0,2026-07-31 16:03:00,LOW,0.23
+C0410,Kiran Patel,kiran.patel55@gmail.com,2025-12-23 12:00:00,Chandigarh,Loyal,6,15144.0,2026-08-27 03:40:00,LOW,0.19
+C0411,Rohan Mehta,rohan.mehta19@gmail.com,2026-01-28 12:00:00,Kolkata,Growing,4,7296.0,2026-08-27 07:01:00,MEDIUM,0.29
+C0412,Aryan Chopra,aryan.chopra13@gmail.com,2025-09-25 12:00:00,Delhi NCR,Loyal,8,16792.0,2026-08-29 08:33:00,LOW,0.19
+C0413,Nandini Bhatt,nandini.bhatt14@gmail.com,2026-06-29 12:00:00,Delhi NCR,Loyal,7,16193.0,2026-07-04 03:45:00,LOW,0.21
+C0414,Rahul Menon,rahul.menon56@gmail.com,2025-10-16 12:00:00,Kolkata,Growing,3,7447.0,2026-08-23 14:39:00,MEDIUM,0.27
+C0415,Ananya Bose,ananya.bose29@gmail.com,2026-01-25 12:00:00,Ahmedabad,Growing,4,7546.0,2026-08-03 20:17:00,MEDIUM,0.35
+C0416,Tanvi Bhatt,tanvi.bhatt19@gmail.com,2026-05-24 12:00:00,Chandigarh,Loyal,6,14644.0,2026-07-13 12:44:00,LOW,0.17
+C0417,Bhavya Menon,bhavya.menon60@gmail.com,2025-09-04 12:00:00,Chennai,Loyal,5,11295.0,2026-08-20 16:21:00,LOW,0.14
+C0418,Rohan Bansal,rohan.bansal24@gmail.com,2026-04-29 12:00:00,Bengaluru,Loyal,5,13695.0,2026-08-16 04:14:00,LOW,0.24
+C0419,Anika Tiwari,anika.tiwari59@gmail.com,2026-06-03 12:00:00,Jaipur,Loyal,6,19994.0,2026-08-01 15:35:00,LOW,0.14
+C0420,Rhea Agrawal,rhea.agrawal67@gmail.com,2025-09-23 12:00:00,Hyderabad,Loyal,5,14045.0,2026-08-26 19:12:00,LOW,0.24
+C0421,Saanvi Mishra,saanvi.mishra35@gmail.com,2026-05-25 12:00:00,Mumbai,Loyal,6,13394.0,2026-08-20 14:19:00,LOW,0.22
+C0422,Dev Bhatt,dev.bhatt32@gmail.com,2026-06-19 12:00:00,Ahmedabad,Loyal,5,13495.0,2026-07-18 16:55:00,LOW,0.26
+C0423,Nandini Mukherjee,nandini.mukherjee95@gmail.com,2025-08-04 12:00:00,Chennai,Loyal,4,9596.0,2026-08-24 19:02:00,LOW,0.23
+C0424,Dev Mathur,dev.mathur79@gmail.com,2026-03-02 12:00:00,Pune,Loyal,4,11246.0,2026-08-20 02:52:00,LOW,0.2
+C0425,Neha Joshi,neha.joshi56@gmail.com,2026-04-10 12:00:00,Jaipur,Loyal,3,10397.0,2026-08-14 10:48:00,LOW,0.28
+C0426,Kavya Kulkarni,kavya.kulkarni27@gmail.com,2025-11-23 12:00:00,Hyderabad,Loyal,5,15195.0,2026-08-25 01:48:00,LOW,0.13
+C0427,Aditi Menon,aditi.menon80@gmail.com,2026-01-26 12:00:00,Chandigarh,Loyal,5,11195.0,2026-08-15 05:08:00,LOW,0.17
+C0428,Aditya Mathur,aditya.mathur26@gmail.com,2026-06-19 12:00:00,Chandigarh,At Risk,3,9697.0,2026-06-22 22:48:00,HIGH,0.83
+C0429,Dev Chatterjee,dev.chatterjee60@gmail.com,2025-11-06 12:00:00,Ahmedabad,Loyal,4,9946.0,2026-08-24 23:22:00,LOW,0.21
+C0430,Vivek Shetty,vivek.shetty83@gmail.com,2026-05-30 12:00:00,Mumbai,Loyal,4,13896.0,2026-07-11 02:25:00,LOW,0.15
+C0431,Shreya Iyer,shreya.iyer67@gmail.com,2025-08-19 12:00:00,Ahmedabad,Loyal,5,12495.0,2026-08-26 21:27:00,LOW,0.2
+C0432,Bhavya Sengupta,bhavya.sengupta26@gmail.com,2025-09-09 12:00:00,Jaipur,Loyal,5,15195.0,2026-07-27 15:53:00,LOW,0.22
+C0433,Harsh Joshi,harsh.joshi26@gmail.com,2025-11-18 12:00:00,Kolkata,Loyal,4,14996.0,2026-08-26 06:13:00,LOW,0.21
+C0434,Arjun Rao,arjun.rao76@gmail.com,2026-02-28 12:00:00,Delhi NCR,Loyal,4,9546.0,2026-08-24 18:15:00,LOW,0.22
+C0435,Neha Chopra,neha.chopra51@gmail.com,2026-02-06 12:00:00,Hyderabad,New,1,4999.0,2026-07-17 16:52:00,MEDIUM,0.44
+C0436,Bhavya Kapoor,bhavya.kapoor20@gmail.com,2026-04-24 12:00:00,Pune,Growing,3,6947.0,2026-08-29 05:23:00,MEDIUM,0.37
+C0437,Kunal Mathur,kunal.mathur45@gmail.com,2025-09-16 12:00:00,Delhi NCR,Loyal,5,10245.0,2026-08-25 22:46:00,LOW,0.23
+C0438,Samarth Dutta,samarth.dutta78@gmail.com,2025-11-18 12:00:00,Mumbai,Growing,2,6298.0,2026-08-29 10:24:00,MEDIUM,0.31
+C0439,Lakshmi Chopra,lakshmi.chopra85@gmail.com,2026-05-16 12:00:00,Chandigarh,Growing,2,7998.0,2026-08-21 01:24:00,MEDIUM,0.32
+C0440,Neha Dutta,neha.dutta87@gmail.com,2025-10-18 12:00:00,Chennai,Loyal,4,12496.0,2026-08-28 22:30:00,LOW,0.15
+C0441,Ananya Verma,ananya.verma20@gmail.com,2025-09-08 12:00:00,Bengaluru,Loyal,3,9647.0,2026-08-20 08:25:00,LOW,0.25
+C0442,Yash Srivastava,yash.srivastava43@gmail.com,2025-10-14 12:00:00,Hyderabad,Loyal,5,15895.0,2026-07-11 14:41:00,LOW,0.14
+C0443,Vivek Dutta,vivek.dutta91@gmail.com,2025-11-21 12:00:00,Bengaluru,Loyal,4,9546.0,2026-08-30 15:39:00,LOW,0.21
+C0444,Kunal Saxena,kunal.saxena47@gmail.com,2025-11-28 12:00:00,Pune,Loyal,4,11396.0,2026-08-23 22:56:00,LOW,0.21
+C0445,Rahul Nambiar,rahul.nambiar48@gmail.com,2026-06-26 12:00:00,Ahmedabad,Loyal,7,19693.0,2026-08-07 18:36:00,LOW,0.2
+C0446,Omkar Mehta,omkar.mehta30@gmail.com,2026-01-02 12:00:00,Ahmedabad,Loyal,5,10745.0,2026-08-09 20:59:00,LOW,0.13
+C0447,Akash Trivedi,akash.trivedi36@gmail.com,2025-09-26 12:00:00,Chennai,At Risk,5,10445.0,2026-06-30 09:00:00,HIGH,0.73
+C0448,Meera Mukherjee,meera.mukherjee50@gmail.com,2026-01-10 12:00:00,Chennai,Loyal,2,9998.0,2026-07-03 04:29:00,LOW,0.17
+C0449,Manish Menon,manish.menon75@gmail.com,2026-06-09 12:00:00,Jaipur,Loyal,4,10046.0,2026-07-24 01:13:00,LOW,0.27
+C0450,Shreya Bansal,shreya.bansal69@gmail.com,2026-03-19 12:00:00,Mumbai,Loyal,5,18595.0,2026-08-06 14:21:00,LOW,0.24
+C0451,Kiran Bansal,kiran.bansal28@gmail.com,2026-07-08 12:00:00,Mumbai,Loyal,4,12796.0,2026-08-15 02:19:00,LOW,0.23
+C0452,Saanvi Pillai,saanvi.pillai88@gmail.com,2026-03-28 12:00:00,Kolkata,Loyal,3,10747.0,2026-08-08 20:21:00,LOW,0.14
+C0453,Neha Mukherjee,neha.mukherjee83@gmail.com,2026-04-27 12:00:00,Chennai,Loyal,3,13497.0,2026-08-02 00:48:00,LOW,0.27
+C0454,Tarun Chopra,tarun.chopra73@gmail.com,2025-12-06 12:00:00,Jaipur,Loyal,3,12897.0,2026-07-20 17:29:00,LOW,0.16
+C0455,Anika Chatterjee,anika.chatterjee73@gmail.com,2026-06-17 12:00:00,Bengaluru,Loyal,5,14645.0,2026-08-18 23:37:00,LOW,0.19
+C0456,Vikram Dubey,vikram.dubey68@gmail.com,2026-04-14 12:00:00,Hyderabad,At Risk,5,9145.0,2026-06-27 12:52:00,HIGH,0.83
+C0457,Harsh Sengupta,harsh.sengupta16@gmail.com,2026-03-11 12:00:00,Bengaluru,Loyal,4,10996.0,2026-07-28 18:19:00,LOW,0.18
+C0458,Anika Bose,anika.bose93@gmail.com,2026-03-09 12:00:00,Ahmedabad,Loyal,5,9195.0,2026-08-01 04:05:00,LOW,0.13
+C0459,Chirag Sharma,chirag.sharma23@gmail.com,2026-05-26 12:00:00,Kolkata,Loyal,4,10596.0,2026-08-12 14:30:00,LOW,0.17
+C0460,Rhea Menon,rhea.menon61@gmail.com,2026-07-10 12:00:00,Chennai,Loyal,3,8297.0,2026-07-15 03:04:00,LOW,0.27
+C0461,Vikram Mehta,vikram.mehta82@gmail.com,2026-04-25 12:00:00,Jaipur,Loyal,4,8446.0,2026-07-26 15:10:00,LOW,0.26
+C0462,Tanvi Mathur,tanvi.mathur46@gmail.com,2026-01-17 12:00:00,Mumbai,Loyal,5,13895.0,2026-08-18 23:34:00,LOW,0.28
+C0463,Aryan Bhatt,aryan.bhatt80@gmail.com,2025-09-17 12:00:00,Pune,Loyal,4,10696.0,2026-08-16 06:47:00,LOW,0.27
+C0464,Nandini Dutta,nandini.dutta25@gmail.com,2026-06-14 12:00:00,Delhi NCR,Loyal,4,9796.0,2026-07-19 21:34:00,LOW,0.13
+C0465,Vikram Menon,vikram.menon53@gmail.com,2026-01-27 12:00:00,Jaipur,Loyal,6,13394.0,2026-08-12 08:06:00,LOW,0.26
+C0466,Tarun Malhotra,tarun.malhotra35@gmail.com,2025-11-15 12:00:00,Chandigarh,Growing,4,7446.0,2026-06-27 23:34:00,MEDIUM,0.29
+C0467,Vikram Dubey,vikram.dubey15@gmail.com,2026-07-14 12:00:00,Bengaluru,Loyal,4,8496.0,2026-08-13 09:50:00,LOW,0.21
+C0468,Manish Das,manish.das70@gmail.com,2025-12-12 12:00:00,Jaipur,Loyal,5,16795.0,2026-08-26 13:48:00,LOW,0.21
+C0469,Meera Bose,meera.bose75@gmail.com,2026-02-16 12:00:00,Delhi NCR,Loyal,4,14146.0,2026-07-31 18:15:00,LOW,0.22
+C0470,Jatin Mukherjee,jatin.mukherjee30@gmail.com,2025-09-21 12:00:00,Kolkata,Loyal,8,16192.0,2026-08-17 04:46:00,LOW,0.26
+C0471,Sakshi Chatterjee,sakshi.chatterjee85@gmail.com,2025-11-16 12:00:00,Chennai,Growing,3,7697.0,2026-08-19 01:53:00,MEDIUM,0.41
+C0472,Aryan Saxena,aryan.saxena72@gmail.com,2026-03-02 12:00:00,Chandigarh,Loyal,6,11644.0,2026-07-19 08:55:00,LOW,0.2
+C0473,Akash Verma,akash.verma57@gmail.com,2025-08-23 12:00:00,Chennai,Loyal,5,14395.0,2026-08-30 03:12:00,LOW,0.13
+C0474,Kavya Shetty,kavya.shetty84@gmail.com,2025-08-15 12:00:00,Pune,Growing,2,7898.0,2026-07-04 20:42:00,MEDIUM,0.41
+C0475,Kunal Verma,kunal.verma86@gmail.com,2026-03-20 12:00:00,Ahmedabad,Loyal,4,9696.0,2026-08-24 18:50:00,LOW,0.12
+C0476,Lakshmi Choudhury,lakshmi.choudhury83@gmail.com,2025-07-29 12:00:00,Hyderabad,Growing,2,5898.0,2026-08-21 08:05:00,MEDIUM,0.3
+C0477,Arjun Choudhury,arjun.choudhury71@gmail.com,2025-11-07 12:00:00,Delhi NCR,Loyal,6,16494.0,2026-08-12 02:39:00,LOW,0.15
+C0478,Kunal Dutta,kunal.dutta58@gmail.com,2025-08-19 12:00:00,Delhi NCR,Growing,2,6198.0,2026-08-18 08:22:00,MEDIUM,0.28
+C0479,Rahul Patel,rahul.patel83@gmail.com,2026-04-27 12:00:00,Mumbai,Loyal,3,12997.0,2026-08-24 01:17:00,LOW,0.24
+C0480,Aditi Bhatt,aditi.bhatt50@gmail.com,2026-05-17 12:00:00,Kolkata,Loyal,4,15896.0,2026-08-22 06:54:00,LOW,0.28
+C0481,Vivek Deshmukh,vivek.deshmukh62@gmail.com,2025-09-23 12:00:00,Jaipur,Growing,3,6347.0,2026-08-17 07:50:00,MEDIUM,0.3
+C0482,Akash Mehta,akash.mehta27@gmail.com,2026-04-18 12:00:00,Jaipur,VIP,10,20740.0,2026-08-26 17:28:00,LOW,0.15
+C0483,Deepika Mukherjee,deepika.mukherjee94@gmail.com,2025-11-06 12:00:00,Ahmedabad,New,1,4999.0,2026-07-29 20:38:00,MEDIUM,0.42
+C0484,Varun Mukherjee,varun.mukherjee32@gmail.com,2025-11-03 12:00:00,Ahmedabad,Loyal,5,12695.0,2026-08-30 07:09:00,LOW,0.19
+C0485,Siddharth Saxena,siddharth.saxena55@gmail.com,2025-09-24 12:00:00,Pune,Loyal,3,9997.0,2026-08-08 07:41:00,LOW,0.27
+C0486,Akash Kulkarni,akash.kulkarni41@gmail.com,2025-10-21 12:00:00,Pune,Loyal,7,15193.0,2026-07-14 14:19:00,LOW,0.13
+C0487,Samarth Singhal,samarth.singhal48@gmail.com,2025-08-07 12:00:00,Pune,Growing,2,6898.0,2026-08-04 07:22:00,MEDIUM,0.43
+C0488,Pranav Mishra,pranav.mishra50@gmail.com,2026-02-05 12:00:00,Ahmedabad,Loyal,4,9696.0,2026-08-01 23:49:00,LOW,0.2
+C0489,Deepika Bhatia,deepika.bhatia46@gmail.com,2025-10-13 12:00:00,Mumbai,Loyal,7,16643.0,2026-07-30 04:00:00,LOW,0.18
+C0490,Nandini Saxena,nandini.saxena58@gmail.com,2026-02-07 12:00:00,Kolkata,Loyal,5,12695.0,2026-08-20 06:14:00,LOW,0.13
+C0491,Yash Malhotra,yash.malhotra47@gmail.com,2026-03-08 12:00:00,Bengaluru,Growing,2,6198.0,2026-08-12 16:17:00,MEDIUM,0.39
+C0492,Payal Nair,payal.nair54@gmail.com,2025-09-01 12:00:00,Ahmedabad,Loyal,6,13444.0,2026-08-12 12:51:00,LOW,0.19
+C0493,Rhea Pandey,rhea.pandey37@gmail.com,2025-10-31 12:00:00,Hyderabad,Loyal,5,8145.0,2026-07-31 09:23:00,LOW,0.24
+C0494,Rohan Mathur,rohan.mathur99@gmail.com,2026-05-24 12:00:00,Pune,Loyal,4,9996.0,2026-08-08 00:15:00,LOW,0.14
+C0495,Ishaan Dutta,ishaan.dutta85@gmail.com,2026-03-31 12:00:00,Hyderabad,At Risk,3,10897.0,2026-06-21 13:17:00,HIGH,0.81
+C0496,Arjun Tiwari,arjun.tiwari38@gmail.com,2026-07-07 12:00:00,Hyderabad,Loyal,3,10197.0,2026-08-25 00:52:00,LOW,0.22
+C0497,Ishaan Shetty,ishaan.shetty52@gmail.com,2026-06-12 12:00:00,Ahmedabad,Loyal,4,8096.0,2026-08-13 00:59:00,LOW,0.14
+C0498,Nandini Gupta,nandini.gupta10@gmail.com,2026-05-14 12:00:00,Jaipur,VIP,9,25641.0,2026-08-19 11:22:00,LOW,0.06
+C0499,Vivek Pandey,vivek.pandey71@gmail.com,2026-03-08 12:00:00,Hyderabad,Loyal,5,11445.0,2026-08-27 05:33:00,LOW,0.18
+C0500,Shreya Kapoor,shreya.kapoor92@gmail.com,2026-06-18 12:00:00,Bengaluru,Loyal,3,13897.0,2026-08-20 02:08:00,LOW,0.24
+C0501,Lakshmi Srivastava,lakshmi.srivastava39@gmail.com,2025-07-28 12:00:00,Jaipur,Loyal,4,12696.0,2026-07-07 05:06:00,LOW,0.14
+C0502,Ananya Joshi,ananya.joshi63@gmail.com,2026-07-15 12:00:00,Delhi NCR,Loyal,3,9597.0,2026-08-24 05:05:00,LOW,0.12
+C0503,Vikram Mishra,vikram.mishra33@gmail.com,2026-07-14 12:00:00,Pune,Growing,3,7797.0,2026-07-25 02:18:00,MEDIUM,0.29
+C0504,Aarav Chatterjee,aarav.chatterjee82@gmail.com,2026-06-09 12:00:00,Chandigarh,Growing,3,6697.0,2026-06-24 18:09:00,MEDIUM,0.35
+C0505,Siddharth Kapoor,siddharth.kapoor68@gmail.com,2025-11-07 12:00:00,Jaipur,Loyal,4,13296.0,2026-07-20 23:42:00,LOW,0.22
+C0506,Anika Gupta,anika.gupta74@gmail.com,2026-03-16 12:00:00,Ahmedabad,Loyal,5,11895.0,2026-08-24 21:13:00,LOW,0.24
+C0507,Pooja Rao,pooja.rao52@gmail.com,2025-12-11 12:00:00,Delhi NCR,Loyal,8,17892.0,2026-08-23 05:53:00,LOW,0.13
+C0508,Lakshmi Agrawal,lakshmi.agrawal33@gmail.com,2026-02-11 12:00:00,Bengaluru,Loyal,5,9895.0,2026-07-27 22:55:00,LOW,0.28
+C0509,Saanvi Srivastava,saanvi.srivastava96@gmail.com,2026-05-05 12:00:00,Hyderabad,Loyal,5,9595.0,2026-08-14 20:29:00,LOW,0.23
+C0510,Jatin Nambiar,jatin.nambiar64@gmail.com,2026-02-16 12:00:00,Jaipur,Loyal,5,12245.0,2026-08-10 02:06:00,LOW,0.28
+C0511,Diya Nambiar,diya.nambiar95@gmail.com,2026-04-30 12:00:00,Mumbai,Loyal,4,10396.0,2026-08-22 10:44:00,LOW,0.13
+C0512,Manish Pandey,manish.pandey51@gmail.com,2026-07-30 12:00:00,Hyderabad,Loyal,5,8895.0,2026-08-20 05:41:00,LOW,0.24
+C0513,Rhea Pillai,rhea.pillai40@gmail.com,2026-03-19 12:00:00,Ahmedabad,Loyal,5,15095.0,2026-08-05 23:03:00,LOW,0.23
+C0514,Siddharth Chatterjee,siddharth.chatterjee84@gmail.com,2026-07-28 12:00:00,Chandigarh,Growing,2,5898.0,2026-08-09 07:38:00,MEDIUM,0.34
+C0515,Rhea Menon,rhea.menon98@gmail.com,2026-07-02 12:00:00,Hyderabad,Growing,3,6297.0,2026-07-27 10:53:00,MEDIUM,0.42
+C0516,Mayank Rao,mayank.rao69@gmail.com,2026-05-13 12:00:00,Pune,Loyal,5,13145.0,2026-07-19 02:13:00,LOW,0.12
+C0517,Vikram Dubey,vikram.dubey49@gmail.com,2025-09-09 12:00:00,Mumbai,Loyal,3,8797.0,2026-08-16 08:35:00,LOW,0.15
+C0518,Saanvi Menon,saanvi.menon88@gmail.com,2026-04-12 12:00:00,Hyderabad,Loyal,2,8898.0,2026-07-23 15:18:00,LOW,0.26
+C0519,Manish Pandey,manish.pandey29@gmail.com,2025-09-26 12:00:00,Ahmedabad,Loyal,3,8497.0,2026-07-24 05:10:00,LOW,0.22
+C0520,Tanvi Shetty,tanvi.shetty99@gmail.com,2025-12-04 12:00:00,Jaipur,Loyal,5,14995.0,2026-08-22 20:35:00,LOW,0.26
+C0521,Tarun Saxena,tarun.saxena95@gmail.com,2026-03-29 12:00:00,Hyderabad,Loyal,7,15493.0,2026-08-17 21:43:00,LOW,0.15
+C0522,Nandini Bose,nandini.bose20@gmail.com,2025-12-17 12:00:00,Jaipur,Loyal,5,14995.0,2026-08-01 06:39:00,LOW,0.19
+C0523,Bhavya Menon,bhavya.menon19@gmail.com,2026-06-06 12:00:00,Chandigarh,Loyal,4,12546.0,2026-08-11 01:50:00,LOW,0.26
+C0524,Arjun Mathur,arjun.mathur74@gmail.com,2025-10-13 12:00:00,Hyderabad,Loyal,5,12695.0,2026-07-06 04:59:00,LOW,0.12
+C0525,Chirag Malhotra,chirag.malhotra31@gmail.com,2025-11-09 12:00:00,Chennai,Loyal,6,14694.0,2026-08-26 06:26:00,LOW,0.18
+C0526,Kiran Rao,kiran.rao97@gmail.com,2025-07-31 12:00:00,Hyderabad,Loyal,3,8747.0,2026-07-08 02:41:00,LOW,0.22
+C0527,Harsh Mishra,harsh.mishra21@gmail.com,2025-12-17 12:00:00,Jaipur,Loyal,6,15344.0,2026-07-30 18:59:00,LOW,0.18
+C0528,Arjun Trivedi,arjun.trivedi26@gmail.com,2026-01-02 12:00:00,Jaipur,Growing,2,5748.0,2026-07-16 12:35:00,MEDIUM,0.37
+C0529,Aditya Srivastava,aditya.srivastava17@gmail.com,2025-12-09 12:00:00,Jaipur,Loyal,6,13644.0,2026-08-30 22:56:00,LOW,0.25
+C0530,Nandini Chatterjee,nandini.chatterjee12@gmail.com,2026-03-25 12:00:00,Kolkata,Loyal,5,14345.0,2026-08-27 09:18:00,LOW,0.18
+C0531,Aarav Deshmukh,aarav.deshmukh84@gmail.com,2026-07-10 12:00:00,Mumbai,New,1,4999.0,2026-06-17 20:31:00,MEDIUM,0.44
+C0532,Zoya Sengupta,zoya.sengupta99@gmail.com,2025-10-29 12:00:00,Mumbai,Loyal,5,10695.0,2026-08-22 11:02:00,LOW,0.16
+C0533,Arjun Iyer,arjun.iyer70@gmail.com,2026-03-09 12:00:00,Bengaluru,VIP,7,21993.0,2026-07-19 21:18:00,LOW,0.14
+C0534,Vivek Joshi,vivek.joshi27@gmail.com,2026-01-23 12:00:00,Kolkata,Growing,3,6947.0,2026-07-20 14:48:00,MEDIUM,0.45
+C0535,Varun Bhatt,varun.bhatt58@gmail.com,2026-06-22 12:00:00,Kolkata,Loyal,5,10895.0,2026-08-25 18:47:00,LOW,0.16
+C0536,Nandini Saxena,nandini.saxena27@gmail.com,2026-06-03 12:00:00,Chennai,Growing,2,6698.0,2026-08-28 00:11:00,MEDIUM,0.39
+C0537,Nikhil Saxena,nikhil.saxena60@gmail.com,2026-05-29 12:00:00,Jaipur,New,1,4999.0,2026-06-18 03:55:00,MEDIUM,0.31
+C0538,Rajesh Singhal,rajesh.singhal10@gmail.com,2026-03-03 12:00:00,Bengaluru,Loyal,3,8397.0,2026-08-01 02:57:00,LOW,0.2
+C0539,Aditya Saxena,aditya.saxena64@gmail.com,2026-01-20 12:00:00,Jaipur,Loyal,6,15994.0,2026-08-10 21:06:00,LOW,0.24
+C0540,Priya Bansal,priya.bansal68@gmail.com,2026-05-15 12:00:00,Chennai,Growing,3,7797.0,2026-08-14 11:48:00,MEDIUM,0.31
+C0541,Rohan Kulkarni,rohan.kulkarni24@gmail.com,2025-08-29 12:00:00,Bengaluru,At Risk,4,8446.0,2026-06-20 01:32:00,HIGH,0.82
+C0542,Vivek Dutta,vivek.dutta12@gmail.com,2026-04-19 12:00:00,Hyderabad,Loyal,5,9795.0,2026-08-30 13:03:00,LOW,0.25
+C0543,Dev Reddy,dev.reddy86@gmail.com,2025-12-17 12:00:00,Bengaluru,Loyal,6,15294.0,2026-07-14 21:42:00,LOW,0.21
+C0544,Isha Mehta,isha.mehta41@gmail.com,2026-01-09 12:00:00,Bengaluru,Loyal,6,16144.0,2026-08-18 18:37:00,LOW,0.26
+C0545,Kiran Singhal,kiran.singhal79@gmail.com,2026-07-05 12:00:00,Hyderabad,New,1,4999.0,2026-07-01 14:52:00,MEDIUM,0.31
+C0546,Manish Dubey,manish.dubey47@gmail.com,2025-10-12 12:00:00,Hyderabad,Loyal,5,13145.0,2026-08-28 20:13:00,LOW,0.22
+C0547,Shreya Srivastava,shreya.srivastava86@gmail.com,2026-04-03 12:00:00,Chennai,Loyal,6,19894.0,2026-08-18 19:17:00,LOW,0.21
+C0548,Samarth Malhotra,samarth.malhotra94@gmail.com,2026-04-11 12:00:00,Jaipur,Loyal,7,17593.0,2026-08-28 22:56:00,LOW,0.15
+C0549,Vivek Chatterjee,vivek.chatterjee45@gmail.com,2025-10-21 12:00:00,Bengaluru,Growing,4,7746.0,2026-08-21 00:20:00,MEDIUM,0.29
+C0550,Harsh Joshi,harsh.joshi90@gmail.com,2025-10-22 12:00:00,Kolkata,Loyal,3,10747.0,2026-07-28 06:13:00,LOW,0.17
+C0551,Anika Mehta,anika.mehta54@gmail.com,2025-11-07 12:00:00,Kolkata,Loyal,6,14344.0,2026-08-21 22:18:00,LOW,0.26
+C0552,Shreya Shetty,shreya.shetty62@gmail.com,2026-03-02 12:00:00,Delhi NCR,Loyal,5,14695.0,2026-08-06 16:57:00,LOW,0.25
+C0553,Varun Joshi,varun.joshi78@gmail.com,2026-04-01 12:00:00,Ahmedabad,Loyal,3,11997.0,2026-08-22 03:16:00,LOW,0.18
+C0554,Priya Chatterjee,priya.chatterjee28@gmail.com,2026-07-04 12:00:00,Ahmedabad,Loyal,7,17443.0,2026-07-23 23:40:00,LOW,0.26
+C0555,Deepika Shetty,deepika.shetty63@gmail.com,2025-11-04 12:00:00,Jaipur,VIP,8,21142.0,2026-08-01 00:17:00,LOW,0.15
+C0556,Manish Pillai,manish.pillai41@gmail.com,2026-04-20 12:00:00,Pune,Loyal,5,12095.0,2026-07-11 11:24:00,LOW,0.17
+C0557,Siddharth Nair,siddharth.nair67@gmail.com,2026-06-16 12:00:00,Chennai,Loyal,3,9597.0,2026-08-13 13:24:00,LOW,0.26
+C0558,Chirag Kulkarni,chirag.kulkarni16@gmail.com,2026-01-21 12:00:00,Pune,Loyal,5,11395.0,2026-08-23 14:49:00,LOW,0.21
+C0559,Nandini Bose,nandini.bose87@gmail.com,2026-06-26 12:00:00,Bengaluru,Loyal,8,15992.0,2026-08-26 16:09:00,LOW,0.2
+C0560,Pooja Choudhury,pooja.choudhury95@gmail.com,2026-04-13 12:00:00,Jaipur,Loyal,7,16343.0,2026-07-27 20:47:00,LOW,0.15
+C0561,Akash Deshmukh,akash.deshmukh52@gmail.com,2026-07-26 12:00:00,Pune,At Risk,3,8897.0,2026-06-24 19:28:00,HIGH,0.83
+C0562,Pranav Kulkarni,pranav.kulkarni25@gmail.com,2026-03-31 12:00:00,Ahmedabad,Loyal,4,9696.0,2026-08-22 16:11:00,LOW,0.15
+C0563,Omkar Bose,omkar.bose36@gmail.com,2026-04-02 12:00:00,Kolkata,Loyal,6,12644.0,2026-08-10 02:49:00,LOW,0.19
+C0564,Deepika Mukherjee,deepika.mukherjee46@gmail.com,2025-12-07 12:00:00,Kolkata,VIP,7,20043.0,2026-08-10 23:18:00,LOW,0.13
+C0565,Chirag Sengupta,chirag.sengupta49@gmail.com,2026-01-30 12:00:00,Pune,Growing,3,7697.0,2026-08-06 12:31:00,MEDIUM,0.25
+C0566,Aryan Mishra,aryan.mishra69@gmail.com,2025-07-29 12:00:00,Mumbai,Loyal,3,8497.0,2026-08-18 14:47:00,LOW,0.21
+C0567,Akash Mukherjee,akash.mukherjee36@gmail.com,2026-02-23 12:00:00,Chennai,Loyal,5,10395.0,2026-07-28 02:25:00,LOW,0.15
+C0568,Vivek Patel,vivek.patel82@gmail.com,2026-05-20 12:00:00,Hyderabad,Loyal,3,10647.0,2026-07-19 06:23:00,LOW,0.2
+C0569,Aditi Agrawal,aditi.agrawal80@gmail.com,2025-10-10 12:00:00,Chandigarh,Loyal,4,10896.0,2026-08-04 22:16:00,LOW,0.26
+C0570,Rajesh Shetty,rajesh.shetty47@gmail.com,2026-04-24 12:00:00,Delhi NCR,Loyal,5,9545.0,2026-07-10 08:35:00,LOW,0.27
+C0571,Siddharth Singhal,siddharth.singhal58@gmail.com,2026-03-30 12:00:00,Chandigarh,Growing,3,7047.0,2026-07-13 22:00:00,MEDIUM,0.42
+C0572,Anika Mathur,anika.mathur93@gmail.com,2026-03-24 12:00:00,Chennai,Growing,2,7898.0,2026-07-02 09:48:00,MEDIUM,0.28
+C0573,Tarun Mishra,tarun.mishra92@gmail.com,2025-12-10 12:00:00,Ahmedabad,Growing,3,7697.0,2026-08-13 21:33:00,MEDIUM,0.32
+C0574,Neha Sengupta,neha.sengupta31@gmail.com,2025-07-30 12:00:00,Delhi NCR,Loyal,4,9796.0,2026-08-07 17:06:00,LOW,0.27
+C0575,Chirag Mishra,chirag.mishra33@gmail.com,2025-09-08 12:00:00,Jaipur,Loyal,5,15245.0,2026-07-25 04:57:00,LOW,0.24
+C0576,Arjun Tiwari,arjun.tiwari14@gmail.com,2025-08-25 12:00:00,Mumbai,Growing,3,7397.0,2026-08-08 08:24:00,MEDIUM,0.32
+C0577,Arjun Sharma,arjun.sharma62@gmail.com,2025-09-14 12:00:00,Delhi NCR,At Risk,3,12997.0,2026-06-26 07:51:00,HIGH,0.85
+C0578,Priya Iyer,priya.iyer29@gmail.com,2026-04-13 12:00:00,Bengaluru,Loyal,2,8898.0,2026-08-16 08:35:00,LOW,0.14
+C0579,Aryan Trivedi,aryan.trivedi57@gmail.com,2025-09-20 12:00:00,Bengaluru,Growing,4,7546.0,2026-07-21 21:16:00,MEDIUM,0.37
+C0580,Kunal Dutta,kunal.dutta71@gmail.com,2026-07-25 12:00:00,Ahmedabad,Loyal,5,11945.0,2026-08-22 19:05:00,LOW,0.14
+C0581,Aarav Saxena,aarav.saxena80@gmail.com,2026-07-27 12:00:00,Kolkata,Loyal,4,11796.0,2026-08-15 20:44:00,LOW,0.21
+C0582,Aditi Tiwari,aditi.tiwari45@gmail.com,2026-03-09 12:00:00,Jaipur,Growing,2,5748.0,2026-08-18 21:03:00,MEDIUM,0.33
+C0583,Aditi Dubey,aditi.dubey99@gmail.com,2026-05-03 12:00:00,Kolkata,Loyal,6,14394.0,2026-08-23 14:53:00,LOW,0.12
+C0584,Ishaan Reddy,ishaan.reddy77@gmail.com,2026-04-01 12:00:00,Delhi NCR,Loyal,6,19894.0,2026-08-23 13:22:00,LOW,0.15
+C0585,Pooja Dutta,pooja.dutta77@gmail.com,2026-02-02 12:00:00,Pune,Growing,3,7997.0,2026-06-22 20:53:00,MEDIUM,0.31
+C0586,Rohan Nambiar,rohan.nambiar20@gmail.com,2026-01-07 12:00:00,Chennai,Loyal,7,16243.0,2026-08-25 12:14:00,LOW,0.26
+C0587,Aditya Srivastava,aditya.srivastava41@gmail.com,2026-03-02 12:00:00,Hyderabad,Loyal,6,18494.0,2026-08-31 11:38:00,LOW,0.24
+C0588,Nandini Nair,nandini.nair93@gmail.com,2026-06-16 12:00:00,Bengaluru,Loyal,4,11496.0,2026-08-01 07:53:00,LOW,0.16
+C0589,Vikram Pillai,vikram.pillai58@gmail.com,2025-12-02 12:00:00,Jaipur,Loyal,4,12546.0,2026-08-06 00:13:00,LOW,0.2
+C0590,Arjun Sharma,arjun.sharma99@gmail.com,2026-06-21 12:00:00,Delhi NCR,At Risk,2,9998.0,2026-06-29 15:13:00,HIGH,0.78
+C0591,Anika Hegde,anika.hegde92@gmail.com,2025-10-17 12:00:00,Chennai,Loyal,6,19094.0,2026-08-28 19:41:00,LOW,0.15
+C0592,Ishaan Tiwari,ishaan.tiwari15@gmail.com,2026-04-16 12:00:00,Hyderabad,Loyal,5,10045.0,2026-07-23 14:35:00,LOW,0.23
+C0593,Omkar Srivastava,omkar.srivastava70@gmail.com,2026-07-10 12:00:00,Pune,Growing,3,6397.0,2026-07-10 18:48:00,MEDIUM,0.29
+C0594,Dev Bhatia,dev.bhatia79@gmail.com,2025-08-31 12:00:00,Chandigarh,Loyal,5,16895.0,2026-07-19 00:34:00,LOW,0.26
+C0595,Ananya Joshi,ananya.joshi50@gmail.com,2026-04-18 12:00:00,Bengaluru,Growing,3,7897.0,2026-08-19 07:43:00,MEDIUM,0.42
+C0596,Harsh Malhotra,harsh.malhotra60@gmail.com,2026-03-02 12:00:00,Mumbai,VIP,9,21341.0,2026-08-14 00:51:00,LOW,0.08
+C0597,Neha Srivastava,neha.srivastava40@gmail.com,2026-01-15 12:00:00,Chandigarh,Loyal,6,10894.0,2026-08-30 00:16:00,LOW,0.27
+C0598,Nandini Saxena,nandini.saxena52@gmail.com,2026-05-23 12:00:00,Kolkata,Loyal,5,14395.0,2026-08-22 09:19:00,LOW,0.21
+C0599,Omkar Nair,omkar.nair74@gmail.com,2026-07-06 12:00:00,Chennai,Loyal,5,11645.0,2026-07-08 20:40:00,LOW,0.13
+C0600,Ishaan Hegde,ishaan.hegde39@gmail.com,2026-02-09 12:00:00,Mumbai,Loyal,6,10594.0,2026-08-09 13:48:00,LOW,0.23
+C0601,Isha Dutta,isha.dutta86@gmail.com,2026-02-16 12:00:00,Kolkata,Loyal,6,10794.0,2026-08-13 04:52:00,LOW,0.19
+C0602,Aditi Bhatia,aditi.bhatia67@gmail.com,2026-04-08 12:00:00,Ahmedabad,Loyal,5,12145.0,2026-08-01 05:36:00,LOW,0.19
+C0603,Sneha Mathur,sneha.mathur58@gmail.com,2026-04-29 12:00:00,Kolkata,Loyal,4,10546.0,2026-08-22 21:04:00,LOW,0.2
+C0604,Nandini Choudhury,nandini.choudhury94@gmail.com,2026-06-20 12:00:00,Kolkata,VIP,9,20841.0,2026-08-27 08:54:00,LOW,0.1
+C0605,Yash Dutta,yash.dutta47@gmail.com,2025-08-02 12:00:00,Hyderabad,Loyal,5,9045.0,2026-07-19 00:06:00,LOW,0.26
+C0606,Dev Nair,dev.nair44@gmail.com,2026-01-20 12:00:00,Delhi NCR,Growing,2,6298.0,2026-06-29 12:18:00,MEDIUM,0.3
+C0607,Payal Malhotra,payal.malhotra59@gmail.com,2026-01-30 12:00:00,Chennai,Growing,2,5748.0,2026-08-05 16:53:00,MEDIUM,0.34
+C0608,Ishaan Nair,ishaan.nair10@gmail.com,2025-12-18 12:00:00,Pune,VIP,8,21542.0,2026-07-23 15:14:00,LOW,0.11
+C0609,Tanvi Bhatia,tanvi.bhatia23@gmail.com,2026-06-19 12:00:00,Delhi NCR,Growing,2,7498.0,2026-08-15 22:52:00,MEDIUM,0.39
+C0610,Nikhil Hegde,nikhil.hegde67@gmail.com,2025-10-22 12:00:00,Jaipur,Growing,2,6798.0,2026-08-26 18:15:00,MEDIUM,0.27
+C0611,Aryan Shetty,aryan.shetty23@gmail.com,2026-06-18 12:00:00,Bengaluru,Loyal,4,10696.0,2026-08-04 07:42:00,LOW,0.16
+C0612,Sneha Mathur,sneha.mathur21@gmail.com,2025-09-30 12:00:00,Chandigarh,Loyal,4,9346.0,2026-08-19 22:44:00,LOW,0.24
+C0613,Shreya Pillai,shreya.pillai11@gmail.com,2026-01-03 12:00:00,Pune,Loyal,4,8296.0,2026-08-05 20:45:00,LOW,0.14
+C0614,Varun Nair,varun.nair81@gmail.com,2025-10-14 12:00:00,Hyderabad,Loyal,4,9296.0,2026-08-26 21:58:00,LOW,0.18
+C0615,Bhavya Chopra,bhavya.chopra97@gmail.com,2026-05-08 12:00:00,Kolkata,Loyal,4,14396.0,2026-07-03 08:55:00,LOW,0.14
+C0616,Manish Bhatia,manish.bhatia48@gmail.com,2025-11-23 12:00:00,Pune,Loyal,4,15396.0,2026-08-28 01:06:00,LOW,0.17
+C0617,Meera Iyer,meera.iyer31@gmail.com,2026-03-14 12:00:00,Kolkata,Loyal,4,12196.0,2026-08-20 17:02:00,LOW,0.26
+C0618,Vivek Chatterjee,vivek.chatterjee71@gmail.com,2026-01-30 12:00:00,Mumbai,Loyal,6,11394.0,2026-08-28 21:02:00,LOW,0.21
+C0619,Rhea Bansal,rhea.bansal90@gmail.com,2025-10-02 12:00:00,Ahmedabad,Loyal,6,14594.0,2026-08-13 18:36:00,LOW,0.2
+C0620,Jatin Kulkarni,jatin.kulkarni68@gmail.com,2026-05-25 12:00:00,Mumbai,Loyal,9,19241.0,2026-08-30 06:00:00,LOW,0.13
+C0621,Samarth Sharma,samarth.sharma60@gmail.com,2025-09-19 12:00:00,Chennai,Growing,3,6897.0,2026-07-29 15:13:00,MEDIUM,0.3
+C0622,Varun Das,varun.das66@gmail.com,2025-12-25 12:00:00,Chennai,Loyal,4,12796.0,2026-08-10 03:53:00,LOW,0.2
+C0623,Lakshmi Bose,lakshmi.bose27@gmail.com,2026-02-19 12:00:00,Pune,VIP,8,23092.0,2026-08-31 02:37:00,LOW,0.05
+C0624,Isha Kulkarni,isha.kulkarni71@gmail.com,2026-05-04 12:00:00,Chennai,Growing,3,7897.0,2026-08-14 05:43:00,MEDIUM,0.27
+C0625,Vikram Mukherjee,vikram.mukherjee47@gmail.com,2025-10-12 12:00:00,Ahmedabad,Loyal,4,8296.0,2026-07-24 00:43:00,LOW,0.24
+C0626,Rahul Mukherjee,rahul.mukherjee58@gmail.com,2026-01-13 12:00:00,Pune,Loyal,6,15644.0,2026-08-28 09:15:00,LOW,0.16
+C0627,Tanvi Rao,tanvi.rao82@gmail.com,2025-10-03 12:00:00,Hyderabad,Loyal,9,13641.0,2026-08-25 10:56:00,LOW,0.25
+C0628,Chirag Joshi,chirag.joshi97@gmail.com,2026-07-20 12:00:00,Jaipur,Loyal,4,12996.0,2026-08-19 23:47:00,LOW,0.18
+C0629,Rajesh Trivedi,rajesh.trivedi36@gmail.com,2026-03-06 12:00:00,Ahmedabad,At Risk,4,10796.0,2026-06-29 13:29:00,HIGH,0.73
+C0630,Omkar Iyer,omkar.iyer62@gmail.com,2026-05-23 12:00:00,Ahmedabad,Growing,3,7097.0,2026-07-18 00:07:00,MEDIUM,0.27
+C0631,Kunal Chatterjee,kunal.chatterjee40@gmail.com,2025-08-30 12:00:00,Pune,At Risk,3,8397.0,2026-06-25 20:29:00,HIGH,0.75
+C0632,Meera Hegde,meera.hegde58@gmail.com,2025-12-16 12:00:00,Mumbai,Loyal,4,12596.0,2026-08-24 07:13:00,LOW,0.15
+C0633,Isha Pandey,isha.pandey84@gmail.com,2025-11-02 12:00:00,Kolkata,Growing,2,2998.0,2026-08-29 14:02:00,MEDIUM,0.33
+C0634,Aryan Shetty,aryan.shetty79@gmail.com,2026-01-30 12:00:00,Bengaluru,Growing,5,6795.0,2026-08-26 20:16:00,MEDIUM,0.26
+C0635,Omkar Saxena,omkar.saxena86@gmail.com,2026-06-08 12:00:00,Mumbai,Growing,3,4697.0,2026-08-10 14:12:00,MEDIUM,0.33
+C0636,Yash Bansal,yash.bansal94@gmail.com,2026-05-09 12:00:00,Chennai,New,1,2999.0,2026-07-23 05:35:00,MEDIUM,0.38
+C0637,Lakshmi Dutta,lakshmi.dutta15@gmail.com,2025-09-06 12:00:00,Chandigarh,Price Sensitive,0,0.0,,HIGH,0.9
+C0638,Nandini Nambiar,nandini.nambiar52@gmail.com,2026-06-09 12:00:00,Kolkata,At Risk,1,1899.0,2026-03-20 02:37:00,HIGH,0.67
+C0639,Aarav Reddy,aarav.reddy43@gmail.com,2025-11-14 12:00:00,Hyderabad,Loyal,4,8296.0,2026-08-02 10:00:00,LOW,0.18
+C0640,Sakshi Tiwari,sakshi.tiwari81@gmail.com,2025-08-15 12:00:00,Chandigarh,Loyal,6,9394.0,2026-08-12 22:14:00,LOW,0.12
+C0641,Gaurav Singhal,gaurav.singhal67@gmail.com,2026-01-14 12:00:00,Chennai,Loyal,6,10144.0,2026-08-17 22:47:00,LOW,0.15
+C0642,Aditya Choudhury,aditya.choudhury98@gmail.com,2026-05-17 12:00:00,Jaipur,At Risk,4,8346.0,2026-05-28 11:32:00,HIGH,0.76
+C0643,Sneha Verma,sneha.verma71@gmail.com,2026-03-04 12:00:00,Mumbai,Growing,4,6596.0,2026-08-28 11:10:00,MEDIUM,0.27
+C0644,Vivek Nair,vivek.nair24@gmail.com,2026-02-05 12:00:00,Delhi NCR,At Risk,5,9345.0,2026-05-30 21:00:00,HIGH,0.79
+C0645,Samarth Das,samarth.das68@gmail.com,2025-11-09 12:00:00,Hyderabad,Price Sensitive,0,0.0,,HIGH,0.9
+C0646,Akash Sengupta,akash.sengupta70@gmail.com,2025-12-21 12:00:00,Mumbai,Growing,2,3398.0,2026-08-09 12:08:00,MEDIUM,0.33
+C0647,Rajesh Bhatt,rajesh.bhatt50@gmail.com,2026-03-02 12:00:00,Mumbai,Loyal,3,9897.0,2026-08-27 20:09:00,LOW,0.24
+C0648,Ananya Rao,ananya.rao12@gmail.com,2025-09-05 12:00:00,Chennai,Growing,2,1448.0,2026-07-10 01:45:00,MEDIUM,0.41
+C0649,Ishaan Chopra,ishaan.chopra41@gmail.com,2026-05-05 12:00:00,Jaipur,VIP,8,21992.0,2026-08-14 15:28:00,LOW,0.09
+C0650,Deepika Chopra,deepika.chopra52@gmail.com,2025-12-27 12:00:00,Jaipur,Loyal,4,12096.0,2026-07-26 03:26:00,LOW,0.23
+C0651,Aditya Singhal,aditya.singhal61@gmail.com,2026-04-29 12:00:00,Delhi NCR,Growing,4,5046.0,2026-08-24 13:09:00,MEDIUM,0.3
+C0652,Kunal Hegde,kunal.hegde60@gmail.com,2025-09-22 12:00:00,Bengaluru,Churned,2,4698.0,2026-04-26 06:26:00,HIGH,0.98
+C0653,Pooja Bhatt,pooja.bhatt85@gmail.com,2026-01-15 12:00:00,Kolkata,Growing,4,5446.0,2026-06-24 12:42:00,MEDIUM,0.43
+C0654,Aarav Deshmukh,aarav.deshmukh36@gmail.com,2025-08-07 12:00:00,Pune,Growing,3,6497.0,2026-08-16 14:04:00,MEDIUM,0.29
+C0655,Dev Srivastava,dev.srivastava23@gmail.com,2026-04-29 12:00:00,Jaipur,Growing,3,7197.0,2026-08-18 15:46:00,MEDIUM,0.33
+C0656,Tanvi Mukherjee,tanvi.mukherjee35@gmail.com,2026-06-05 12:00:00,Ahmedabad,Growing,4,7596.0,2026-08-10 21:12:00,MEDIUM,0.44
+C0657,Rhea Mishra,rhea.mishra77@gmail.com,2025-10-01 12:00:00,Chennai,Growing,3,4597.0,2026-07-30 02:30:00,MEDIUM,0.33
+C0658,Varun Dutta,varun.dutta60@gmail.com,2026-06-05 12:00:00,Chandigarh,Growing,4,7446.0,2026-07-17 07:54:00,MEDIUM,0.4
+C0659,Sneha Sengupta,sneha.sengupta68@gmail.com,2026-05-06 12:00:00,Chandigarh,Growing,3,4397.0,2026-08-24 08:20:00,MEDIUM,0.43
+C0660,Nandini Chatterjee,nandini.chatterjee88@gmail.com,2026-06-20 12:00:00,Chandigarh,Loyal,5,12745.0,2026-08-13 17:38:00,LOW,0.27
+C0661,Nandini Gupta,nandini.gupta50@gmail.com,2026-04-02 12:00:00,Mumbai,Loyal,4,13796.0,2026-08-05 12:27:00,LOW,0.28
+C0662,Samarth Rao,samarth.rao33@gmail.com,2025-08-12 12:00:00,Chennai,At Risk,1,1499.0,2026-05-01 02:31:00,HIGH,0.8
+C0663,Meera Dubey,meera.dubey59@gmail.com,2025-10-01 12:00:00,Kolkata,Growing,4,6296.0,2026-06-20 00:32:00,MEDIUM,0.35
+C0664,Manish Srivastava,manish.srivastava59@gmail.com,2026-04-29 12:00:00,Kolkata,Loyal,5,10795.0,2026-08-18 11:30:00,LOW,0.13
+C0665,Anika Saxena,anika.saxena98@gmail.com,2025-10-22 12:00:00,Delhi NCR,At Risk,1,1799.0,2026-05-20 18:52:00,HIGH,0.69
+C0666,Neha Mishra,neha.mishra46@gmail.com,2026-04-29 12:00:00,Delhi NCR,Loyal,3,9547.0,2026-08-06 00:50:00,LOW,0.12
+C0667,Shreya Bhatt,shreya.bhatt89@gmail.com,2026-01-31 12:00:00,Bengaluru,Growing,4,5446.0,2026-06-15 19:40:00,MEDIUM,0.31
+C0668,Aarav Mishra,aarav.mishra27@gmail.com,2026-01-18 12:00:00,Hyderabad,Loyal,3,10297.0,2026-07-25 22:08:00,LOW,0.25
+C0669,Deepika Dubey,deepika.dubey93@gmail.com,2026-01-05 12:00:00,Ahmedabad,Growing,3,6697.0,2026-08-08 18:44:00,MEDIUM,0.3
+C0670,Nandini Mishra,nandini.mishra63@gmail.com,2025-11-25 12:00:00,Ahmedabad,Growing,2,4198.0,2026-06-15 21:07:00,MEDIUM,0.39
+C0671,Neha Nair,neha.nair82@gmail.com,2026-04-12 12:00:00,Bengaluru,Loyal,3,11797.0,2026-08-06 14:13:00,LOW,0.16
+C0672,Saanvi Patel,saanvi.patel45@gmail.com,2025-10-31 12:00:00,Hyderabad,Growing,4,7246.0,2026-06-05 21:15:00,MEDIUM,0.32
+C0673,Saanvi Chopra,saanvi.chopra68@gmail.com,2025-11-22 12:00:00,Chandigarh,Loyal,6,10394.0,2026-08-04 19:36:00,LOW,0.21
+C0674,Deepika Dubey,deepika.dubey24@gmail.com,2026-06-05 12:00:00,Chandigarh,Loyal,8,18792.0,2026-08-06 01:39:00,LOW,0.23
+C0675,Rohan Saxena,rohan.saxena56@gmail.com,2026-07-12 12:00:00,Jaipur,Loyal,5,8995.0,2026-08-02 16:51:00,LOW,0.25
+C0676,Tarun Bhatt,tarun.bhatt79@gmail.com,2025-12-28 12:00:00,Hyderabad,Loyal,5,11295.0,2026-07-27 04:51:00,LOW,0.12
+C0677,Ishaan Bansal,ishaan.bansal48@gmail.com,2025-12-15 12:00:00,Bengaluru,Loyal,6,11794.0,2026-08-14 00:02:00,LOW,0.16
+C0678,Rhea Sengupta,rhea.sengupta21@gmail.com,2026-06-03 12:00:00,Ahmedabad,New,1,1499.0,2026-08-01 00:23:00,MEDIUM,0.3
+C0679,Yash Bansal,yash.bansal36@gmail.com,2025-08-15 12:00:00,Chandigarh,Growing,3,3597.0,2026-08-16 03:55:00,MEDIUM,0.27
+C0680,Sneha Dutta,sneha.dutta90@gmail.com,2026-05-10 12:00:00,Kolkata,Loyal,4,8096.0,2026-08-14 02:23:00,LOW,0.22
+C0681,Jatin Gupta,jatin.gupta36@gmail.com,2026-07-03 12:00:00,Hyderabad,Growing,2,3698.0,2026-06-24 10:23:00,MEDIUM,0.33
+C0682,Gaurav Sengupta,gaurav.sengupta78@gmail.com,2025-10-01 12:00:00,Pune,Growing,3,4297.0,2026-07-31 22:29:00,MEDIUM,0.45
+C0683,Chirag Chopra,chirag.chopra51@gmail.com,2026-03-07 12:00:00,Pune,Loyal,4,11496.0,2026-08-27 01:55:00,LOW,0.14
+C0684,Gaurav Bhatia,gaurav.bhatia75@gmail.com,2026-05-25 12:00:00,Mumbai,Loyal,5,11695.0,2026-08-07 04:08:00,LOW,0.24
+C0685,Tarun Shetty,tarun.shetty17@gmail.com,2025-09-01 12:00:00,Pune,Price Sensitive,0,0.0,,HIGH,0.9
+C0686,Manish Gupta,manish.gupta41@gmail.com,2025-08-03 12:00:00,Delhi NCR,At Risk,4,8446.0,2026-06-18 11:58:00,HIGH,0.84
+C0687,Shreya Bansal,shreya.bansal96@gmail.com,2025-11-25 12:00:00,Kolkata,At Risk,1,999.0,2026-03-24 04:43:00,HIGH,0.8
+C0688,Meera Srivastava,meera.srivastava90@gmail.com,2025-09-15 12:00:00,Pune,Growing,2,1948.0,2026-07-15 13:38:00,MEDIUM,0.33
+C0689,Vivek Pillai,vivek.pillai67@gmail.com,2025-09-12 12:00:00,Mumbai,Growing,2,3698.0,2026-06-10 06:48:00,MEDIUM,0.37
+C0690,Yash Nair,yash.nair61@gmail.com,2026-03-13 12:00:00,Jaipur,Growing,2,2198.0,2026-07-14 12:45:00,MEDIUM,0.43
+C0691,Omkar Menon,omkar.menon68@gmail.com,2026-02-16 12:00:00,Ahmedabad,Growing,5,7145.0,2026-07-24 11:39:00,MEDIUM,0.39
+C0692,Harsh Sharma,harsh.sharma21@gmail.com,2025-09-11 12:00:00,Ahmedabad,Churned,3,6297.0,2026-05-17 23:09:00,HIGH,0.95
+C0693,Mayank Sengupta,mayank.sengupta18@gmail.com,2026-01-11 12:00:00,Jaipur,Growing,2,2498.0,2026-08-18 08:29:00,MEDIUM,0.38
+C0694,Pranav Hegde,pranav.hegde37@gmail.com,2026-03-18 12:00:00,Ahmedabad,New,1,1199.0,2026-06-23 00:08:00,MEDIUM,0.45
+C0695,Shreya Kapoor,shreya.kapoor53@gmail.com,2025-10-11 12:00:00,Jaipur,Growing,4,7896.0,2026-08-08 19:42:00,MEDIUM,0.4
+C0696,Manish Srivastava,manish.srivastava72@gmail.com,2025-08-18 12:00:00,Chennai,Price Sensitive,0,0.0,,HIGH,0.9
+C0697,Tarun Mehta,tarun.mehta15@gmail.com,2025-09-16 12:00:00,Mumbai,Churned,4,6346.0,2026-05-08 17:09:00,HIGH,0.95
+C0698,Aditya Verma,aditya.verma25@gmail.com,2025-12-20 12:00:00,Delhi NCR,Churned,3,6247.0,2026-05-10 13:52:00,HIGH,0.96
+C0699,Aditya Sharma,aditya.sharma64@gmail.com,2025-08-15 12:00:00,Hyderabad,Growing,4,6496.0,2026-08-14 22:21:00,MEDIUM,0.33
+C0700,Manish Chatterjee,manish.chatterjee30@gmail.com,2026-06-16 12:00:00,Pune,Growing,4,4946.0,2026-07-18 10:55:00,MEDIUM,0.36
+C0701,Lakshmi Menon,lakshmi.menon42@gmail.com,2026-01-24 12:00:00,Mumbai,At Risk,1,2499.0,2026-03-25 12:09:00,HIGH,0.73
+C0702,Mayank Chopra,mayank.chopra16@gmail.com,2025-09-16 12:00:00,Kolkata,Growing,4,7246.0,2026-08-12 20:38:00,MEDIUM,0.38
+C0703,Samarth Singhal,samarth.singhal64@gmail.com,2025-08-07 12:00:00,Mumbai,Loyal,4,8696.0,2026-08-28 20:19:00,LOW,0.26
+C0704,Ishaan Sharma,ishaan.sharma37@gmail.com,2026-06-24 12:00:00,Ahmedabad,Loyal,6,8344.0,2026-07-22 13:56:00,LOW,0.27
+C0705,Manish Choudhury,manish.choudhury38@gmail.com,2025-08-19 12:00:00,Jaipur,Growing,3,5347.0,2026-07-18 05:27:00,MEDIUM,0.31
+C0706,Kiran Sharma,kiran.sharma11@gmail.com,2026-06-02 12:00:00,Chennai,Loyal,4,10796.0,2026-08-23 12:44:00,LOW,0.23
+C0707,Zoya Gupta,zoya.gupta71@gmail.com,2026-04-07 12:00:00,Mumbai,Loyal,9,16991.0,2026-08-21 00:38:00,LOW,0.19
+C0708,Varun Nair,varun.nair23@gmail.com,2026-02-23 12:00:00,Mumbai,New,1,849.0,2026-08-06 15:50:00,MEDIUM,0.5
+C0709,Tanvi Chatterjee,tanvi.chatterjee27@gmail.com,2026-05-26 12:00:00,Kolkata,Churned,3,4647.0,2026-05-18 01:04:00,HIGH,0.94
+C0710,Lakshmi Malhotra,lakshmi.malhotra18@gmail.com,2025-10-18 12:00:00,Jaipur,Growing,2,2598.0,2026-07-02 07:59:00,MEDIUM,0.3
+C0711,Aarav Dutta,aarav.dutta93@gmail.com,2025-12-20 12:00:00,Delhi NCR,Loyal,4,10796.0,2026-08-21 07:34:00,LOW,0.24
+C0712,Sneha Deshmukh,sneha.deshmukh90@gmail.com,2026-01-04 12:00:00,Delhi NCR,Loyal,7,16293.0,2026-08-17 07:11:00,LOW,0.22
+C0713,Jatin Bhatt,jatin.bhatt37@gmail.com,2026-06-12 12:00:00,Mumbai,Loyal,5,11545.0,2026-08-19 04:47:00,LOW,0.13
+C0714,Manish Rao,manish.rao85@gmail.com,2026-02-04 12:00:00,Kolkata,At Risk,4,8396.0,2026-05-31 21:25:00,HIGH,0.8
+C0715,Zoya Mukherjee,zoya.mukherjee27@gmail.com,2026-03-14 12:00:00,Hyderabad,Churned,3,7097.0,2026-04-16 14:03:00,HIGH,0.97
+C0716,Lakshmi Nair,lakshmi.nair41@gmail.com,2025-09-29 12:00:00,Jaipur,Loyal,8,13892.0,2026-08-04 16:32:00,LOW,0.13
+C0717,Isha Bose,isha.bose46@gmail.com,2025-08-30 12:00:00,Bengaluru,Growing,4,6196.0,2026-08-11 01:53:00,MEDIUM,0.27
+C0718,Samarth Deshmukh,samarth.deshmukh76@gmail.com,2025-11-15 12:00:00,Chandigarh,Loyal,4,9396.0,2026-07-20 00:02:00,LOW,0.15
+C0719,Pooja Nambiar,pooja.nambiar47@gmail.com,2026-04-02 12:00:00,Bengaluru,Growing,5,7195.0,2026-08-17 11:13:00,MEDIUM,0.41
+C0720,Anika Pillai,anika.pillai24@gmail.com,2025-11-20 12:00:00,Hyderabad,Growing,2,4698.0,2026-06-03 15:09:00,MEDIUM,0.41
+C0721,Kunal Bose,kunal.bose19@gmail.com,2026-07-27 12:00:00,Jaipur,Growing,3,5447.0,2026-07-18 02:02:00,MEDIUM,0.42
+C0722,Tanvi Mukherjee,tanvi.mukherjee26@gmail.com,2025-10-15 12:00:00,Kolkata,Price Sensitive,0,0.0,,HIGH,0.9
+C0723,Vivek Menon,vivek.menon79@gmail.com,2025-12-04 12:00:00,Delhi NCR,Growing,2,1398.0,2026-06-26 18:47:00,MEDIUM,0.4
+C0724,Yash Iyer,yash.iyer12@gmail.com,2026-06-29 12:00:00,Chandigarh,Loyal,5,12245.0,2026-08-25 20:01:00,LOW,0.27
+C0725,Aarav Agrawal,aarav.agrawal37@gmail.com,2026-07-03 12:00:00,Bengaluru,Growing,4,6046.0,2026-07-29 00:14:00,MEDIUM,0.3
+C0726,Vikram Dubey,vikram.dubey46@gmail.com,2026-01-02 12:00:00,Jaipur,Growing,3,2547.0,2026-08-18 07:03:00,MEDIUM,0.41
+C0727,Zoya Nambiar,zoya.nambiar20@gmail.com,2025-10-31 12:00:00,Jaipur,Growing,3,7697.0,2026-08-02 06:47:00,MEDIUM,0.38
+C0728,Jatin Malhotra,jatin.malhotra45@gmail.com,2026-02-25 12:00:00,Mumbai,Loyal,4,9346.0,2026-08-21 22:16:00,LOW,0.21
+C0729,Diya Dubey,diya.dubey36@gmail.com,2025-11-01 12:00:00,Delhi NCR,Growing,3,4947.0,2026-08-28 16:00:00,MEDIUM,0.29
+C0730,Shreya Nambiar,shreya.nambiar85@gmail.com,2026-02-25 12:00:00,Mumbai,Loyal,6,9994.0,2026-08-18 16:04:00,LOW,0.24
+C0731,Omkar Hegde,omkar.hegde40@gmail.com,2026-03-30 12:00:00,Bengaluru,Growing,3,6697.0,2026-07-24 06:01:00,MEDIUM,0.34
+C0732,Diya Hegde,diya.hegde24@gmail.com,2025-09-23 12:00:00,Ahmedabad,Growing,3,6497.0,2026-06-08 23:28:00,MEDIUM,0.34
+C0733,Isha Mehta,isha.mehta49@gmail.com,2026-06-02 12:00:00,Delhi NCR,Loyal,7,14493.0,2026-07-15 21:22:00,LOW,0.12
+C0734,Aarav Gupta,aarav.gupta99@gmail.com,2026-05-11 12:00:00,Bengaluru,At Risk,1,1999.0,2026-05-22 23:54:00,HIGH,0.71
+C0735,Anika Sengupta,anika.sengupta76@gmail.com,2025-07-29 12:00:00,Jaipur,Growing,3,3697.0,2026-06-28 03:51:00,MEDIUM,0.41
+C0736,Rhea Chopra,rhea.chopra57@gmail.com,2026-03-18 12:00:00,Delhi NCR,Growing,4,7396.0,2026-06-28 04:08:00,MEDIUM,0.44
+C0737,Rajesh Rao,rajesh.rao13@gmail.com,2025-12-26 12:00:00,Chennai,Growing,2,2498.0,2026-08-31 01:49:00,MEDIUM,0.32
+C0738,Rohan Tiwari,rohan.tiwari18@gmail.com,2025-08-03 12:00:00,Pune,Growing,4,4946.0,2026-08-17 09:57:00,MEDIUM,0.38
+C0739,Gaurav Iyer,gaurav.iyer73@gmail.com,2025-11-14 12:00:00,Ahmedabad,Growing,2,5798.0,2026-08-30 10:55:00,MEDIUM,0.32
+C0740,Tanvi Mehta,tanvi.mehta73@gmail.com,2026-05-09 12:00:00,Chandigarh,Growing,4,4546.0,2026-07-26 07:12:00,MEDIUM,0.39
+C0741,Tanvi Chopra,tanvi.chopra42@gmail.com,2025-10-13 12:00:00,Mumbai,Growing,2,4098.0,2026-07-22 18:01:00,MEDIUM,0.31
+C0742,Nandini Rao,nandini.rao39@gmail.com,2026-08-01 12:00:00,Jaipur,Loyal,4,11996.0,2026-08-09 05:45:00,LOW,0.15
+C0743,Ananya Sharma,ananya.sharma41@gmail.com,2025-12-04 12:00:00,Bengaluru,Growing,2,2648.0,2026-06-28 14:22:00,MEDIUM,0.44
+C0744,Tanvi Pillai,tanvi.pillai29@gmail.com,2026-07-15 12:00:00,Delhi NCR,Loyal,8,13292.0,2026-08-28 00:57:00,LOW,0.16
+C0745,Deepika Shetty,deepika.shetty38@gmail.com,2026-03-28 12:00:00,Chennai,At Risk,1,1199.0,2026-03-21 20:33:00,HIGH,0.74
+C0746,Vivek Mukherjee,vivek.mukherjee44@gmail.com,2025-10-14 12:00:00,Mumbai,Growing,4,6646.0,2026-08-09 18:12:00,MEDIUM,0.33
+C0747,Tanvi Rao,tanvi.rao74@gmail.com,2026-05-03 12:00:00,Bengaluru,Loyal,5,13795.0,2026-07-24 02:56:00,LOW,0.21
+C0748,Priya Tiwari,priya.tiwari15@gmail.com,2026-06-28 12:00:00,Kolkata,Loyal,5,12395.0,2026-07-20 10:47:00,LOW,0.17
+C0749,Aditya Kapoor,aditya.kapoor49@gmail.com,2026-06-19 12:00:00,Chennai,Churned,3,5497.0,2026-05-27 14:30:00,HIGH,0.96
+C0750,Deepika Trivedi,deepika.trivedi11@gmail.com,2026-04-22 12:00:00,Chennai,At Risk,1,3499.0,2026-06-02 09:13:00,HIGH,0.8
+C0751,Saanvi Srivastava,saanvi.srivastava48@gmail.com,2026-03-31 12:00:00,Chandigarh,Growing,4,4446.0,2026-08-26 11:13:00,MEDIUM,0.4
+C0752,Aditya Menon,aditya.menon85@gmail.com,2026-04-24 12:00:00,Ahmedabad,Churned,2,4698.0,2026-04-15 12:53:00,HIGH,0.93
+C0753,Rajesh Saxena,rajesh.saxena41@gmail.com,2026-07-30 12:00:00,Delhi NCR,Loyal,4,9696.0,2026-08-25 18:35:00,LOW,0.23
+C0754,Vivek Verma,vivek.verma39@gmail.com,2026-02-06 12:00:00,Jaipur,Growing,3,5697.0,2026-08-26 10:46:00,MEDIUM,0.44
+C0755,Kunal Sharma,kunal.sharma52@gmail.com,2025-08-31 12:00:00,Bengaluru,Loyal,9,13741.0,2026-08-28 07:03:00,LOW,0.26
+C0756,Varun Chatterjee,varun.chatterjee23@gmail.com,2025-11-04 12:00:00,Hyderabad,At Risk,1,1699.0,2026-03-15 12:24:00,HIGH,0.67
+C0757,Rahul Shetty,rahul.shetty72@gmail.com,2026-05-22 12:00:00,Bengaluru,At Risk,1,4999.0,2026-04-26 13:23:00,HIGH,0.7
+C0758,Payal Bhatia,payal.bhatia21@gmail.com,2026-04-06 12:00:00,Bengaluru,Growing,4,7946.0,2026-06-23 23:07:00,MEDIUM,0.35
+C0759,Bhavya Shetty,bhavya.shetty99@gmail.com,2025-12-11 12:00:00,Chennai,Growing,2,5998.0,2026-08-06 20:05:00,MEDIUM,0.44
+C0760,Sakshi Nair,sakshi.nair84@gmail.com,2025-11-17 12:00:00,Mumbai,Loyal,5,13495.0,2026-08-28 16:33:00,LOW,0.14
+C0761,Manish Nambiar,manish.nambiar19@gmail.com,2025-10-16 12:00:00,Chandigarh,Loyal,5,8545.0,2026-07-10 17:13:00,LOW,0.27
+C0762,Arjun Hegde,arjun.hegde94@gmail.com,2026-04-03 12:00:00,Delhi NCR,Growing,3,2747.0,2026-08-23 06:18:00,MEDIUM,0.4
+C0763,Saanvi Agrawal,saanvi.agrawal50@gmail.com,2025-08-09 12:00:00,Kolkata,Loyal,6,13344.0,2026-07-12 23:20:00,LOW,0.28
+C0764,Sakshi Mukherjee,sakshi.mukherjee50@gmail.com,2026-03-16 12:00:00,Ahmedabad,Loyal,8,8142.0,2026-07-22 15:35:00,LOW,0.27
+C0765,Priya Iyer,priya.iyer35@gmail.com,2025-10-07 12:00:00,Delhi NCR,Growing,3,7397.0,2026-08-05 00:40:00,MEDIUM,0.42
+C0766,Ishaan Malhotra,ishaan.malhotra23@gmail.com,2025-12-15 12:00:00,Delhi NCR,Loyal,5,9445.0,2026-08-11 06:34:00,LOW,0.22
+C0767,Aditya Mukherjee,aditya.mukherjee62@gmail.com,2025-11-01 12:00:00,Mumbai,Growing,2,1598.0,2026-07-31 16:33:00,MEDIUM,0.34
+C0768,Sneha Deshmukh,sneha.deshmukh67@gmail.com,2025-12-08 12:00:00,Pune,Loyal,7,12093.0,2026-08-12 12:26:00,LOW,0.16
+C0769,Rhea Rao,rhea.rao21@gmail.com,2025-08-16 12:00:00,Delhi NCR,Loyal,4,8796.0,2026-08-25 18:12:00,LOW,0.19
+C0770,Samarth Bose,samarth.bose15@gmail.com,2026-02-16 12:00:00,Hyderabad,Growing,5,7695.0,2026-08-19 11:35:00,MEDIUM,0.38
+C0771,Meera Nair,meera.nair41@gmail.com,2026-01-12 12:00:00,Chennai,Growing,3,3497.0,2026-08-23 01:03:00,MEDIUM,0.31
+C0772,Aryan Mehta,aryan.mehta96@gmail.com,2026-03-22 12:00:00,Pune,Loyal,5,8045.0,2026-08-26 06:58:00,LOW,0.24
+C0773,Nikhil Verma,nikhil.verma61@gmail.com,2025-10-22 12:00:00,Ahmedabad,Growing,3,4897.0,2026-07-22 19:21:00,MEDIUM,0.37
+C0774,Sakshi Mathur,sakshi.mathur41@gmail.com,2025-12-09 12:00:00,Mumbai,Loyal,4,9996.0,2026-07-31 19:42:00,LOW,0.16
+C0775,Ishaan Gupta,ishaan.gupta25@gmail.com,2026-07-02 12:00:00,Bengaluru,Growing,3,5097.0,2026-08-20 16:08:00,MEDIUM,0.38
+C0776,Yash Singhal,yash.singhal26@gmail.com,2026-01-09 12:00:00,Hyderabad,New,1,899.0,2026-08-30 02:45:00,MEDIUM,0.46
+C0777,Tanvi Nair,tanvi.nair84@gmail.com,2026-03-23 12:00:00,Chandigarh,At Risk,1,2899.0,2026-06-07 02:00:00,HIGH,0.76
+C0778,Dev Verma,dev.verma18@gmail.com,2025-09-06 12:00:00,Hyderabad,At Risk,3,8997.0,2026-06-05 04:33:00,HIGH,0.78
+C0779,Kiran Gupta,kiran.gupta21@gmail.com,2026-06-01 12:00:00,Chennai,Growing,5,3645.0,2026-08-28 15:53:00,MEDIUM,0.41
+C0780,Ananya Trivedi,ananya.trivedi16@gmail.com,2025-10-13 12:00:00,Delhi NCR,Growing,6,7244.0,2026-08-31 10:59:00,MEDIUM,0.33
+C0781,Zoya Nambiar,zoya.nambiar73@gmail.com,2026-01-19 12:00:00,Bengaluru,Growing,4,5346.0,2026-07-19 23:08:00,MEDIUM,0.43
+C0782,Nandini Hegde,nandini.hegde32@gmail.com,2026-04-15 12:00:00,Chennai,Growing,5,6345.0,2026-08-21 14:11:00,MEDIUM,0.35
+C0783,Nikhil Bhatia,nikhil.bhatia45@gmail.com,2026-05-18 12:00:00,Ahmedabad,Growing,4,6146.0,2026-07-10 23:22:00,MEDIUM,0.35
+C0784,Ananya Dutta,ananya.dutta89@gmail.com,2026-03-30 12:00:00,Chandigarh,Churned,2,4898.0,2026-05-02 12:54:00,HIGH,0.89
+C0785,Lakshmi Kapoor,lakshmi.kapoor73@gmail.com,2025-10-25 12:00:00,Kolkata,Churned,2,5098.0,2026-05-08 22:15:00,HIGH,0.98
+C0786,Akash Mehta,akash.mehta21@gmail.com,2026-01-18 12:00:00,Pune,Loyal,5,10395.0,2026-08-31 07:03:00,LOW,0.26
+C0787,Manish Shetty,manish.shetty35@gmail.com,2026-03-28 12:00:00,Jaipur,At Risk,1,1499.0,2026-06-11 10:24:00,HIGH,0.66
+C0788,Kunal Saxena,kunal.saxena12@gmail.com,2025-08-02 12:00:00,Kolkata,Churned,2,4148.0,2026-05-09 07:39:00,HIGH,0.92
+C0789,Sneha Pandey,sneha.pandey79@gmail.com,2026-02-07 12:00:00,Ahmedabad,Growing,4,3146.0,2026-06-07 23:16:00,MEDIUM,0.34
+C0790,Gaurav Dubey,gaurav.dubey51@gmail.com,2026-03-17 12:00:00,Kolkata,Growing,5,4595.0,2026-08-07 15:55:00,MEDIUM,0.44
+C0791,Nikhil Verma,nikhil.verma50@gmail.com,2026-04-12 12:00:00,Chandigarh,Loyal,9,18641.0,2026-08-28 01:56:00,LOW,0.14
+C0792,Aditi Bhatia,aditi.bhatia17@gmail.com,2025-11-04 12:00:00,Ahmedabad,Loyal,7,15343.0,2026-08-07 03:26:00,LOW,0.23
+C0793,Sneha Choudhury,sneha.choudhury39@gmail.com,2026-06-12 12:00:00,Delhi NCR,New,1,1299.0,2026-07-12 21:19:00,MEDIUM,0.42
+C0794,Rahul Bansal,rahul.bansal44@gmail.com,2026-07-05 12:00:00,Jaipur,Growing,2,4498.0,2026-07-12 14:26:00,MEDIUM,0.38
+C0795,Tarun Singhal,tarun.singhal83@gmail.com,2026-02-02 12:00:00,Kolkata,At Risk,1,699.0,2026-03-30 05:00:00,HIGH,0.7
+C0796,Nikhil Joshi,nikhil.joshi40@gmail.com,2026-02-21 12:00:00,Chandigarh,Growing,3,4197.0,2026-07-10 23:15:00,MEDIUM,0.33
+C0797,Sakshi Sengupta,sakshi.sengupta85@gmail.com,2025-08-07 12:00:00,Bengaluru,At Risk,1,649.0,2026-03-22 23:57:00,HIGH,0.66
+C0798,Omkar Sengupta,omkar.sengupta82@gmail.com,2026-05-22 12:00:00,Chandigarh,Loyal,6,9144.0,2026-07-25 11:27:00,LOW,0.24
+C0799,Gaurav Kulkarni,gaurav.kulkarni73@gmail.com,2026-02-25 12:00:00,Jaipur,Growing,3,2847.0,2026-07-30 11:06:00,MEDIUM,0.26
+C0800,Nikhil Mishra,nikhil.mishra14@gmail.com,2026-07-05 12:00:00,Mumbai,Loyal,5,8095.0,2026-08-25 23:24:00,LOW,0.16
+C0801,Priya Bose,priya.bose38@gmail.com,2025-11-06 12:00:00,Bengaluru,Growing,2,2448.0,2026-07-03 10:22:00,MEDIUM,0.45
+C0802,Akash Sharma,akash.sharma52@gmail.com,2026-04-21 12:00:00,Chandigarh,Growing,2,1648.0,2026-06-19 06:45:00,MEDIUM,0.44
+C0803,Manish Das,manish.das32@gmail.com,2026-07-03 12:00:00,Chennai,Loyal,3,8197.0,2026-08-01 14:25:00,LOW,0.21
+C0804,Aditi Malhotra,aditi.malhotra85@gmail.com,2026-06-07 12:00:00,Delhi NCR,Churned,2,1548.0,2026-05-23 09:02:00,HIGH,0.94
+C0805,Bhavya Menon,bhavya.menon19@gmail.com,2025-08-07 12:00:00,Chennai,Loyal,5,13045.0,2026-08-14 17:31:00,LOW,0.13
+C0806,Mayank Nambiar,mayank.nambiar85@gmail.com,2026-02-11 12:00:00,Mumbai,Growing,2,1798.0,2026-08-02 11:19:00,MEDIUM,0.43
+C0807,Samarth Mukherjee,samarth.mukherjee27@gmail.com,2025-12-22 12:00:00,Delhi NCR,Loyal,6,16694.0,2026-08-10 00:45:00,LOW,0.17
+C0808,Kunal Mishra,kunal.mishra93@gmail.com,2026-05-05 12:00:00,Chennai,Loyal,6,13094.0,2026-08-26 12:28:00,LOW,0.22
+C0809,Payal Mathur,payal.mathur98@gmail.com,2026-02-01 12:00:00,Chandigarh,At Risk,4,12796.0,2026-05-08 01:06:00,HIGH,0.83
+C0810,Priya Choudhury,priya.choudhury32@gmail.com,2026-02-26 12:00:00,Kolkata,Loyal,5,8595.0,2026-08-20 00:40:00,LOW,0.26
+C0811,Rajesh Kapoor,rajesh.kapoor26@gmail.com,2026-08-02 12:00:00,Delhi NCR,Loyal,5,8495.0,2026-07-16 02:25:00,LOW,0.25
+C0812,Omkar Srivastava,omkar.srivastava60@gmail.com,2026-07-17 12:00:00,Chandigarh,New,1,1799.0,2026-07-28 10:56:00,MEDIUM,0.36
+C0813,Nikhil Bose,nikhil.bose50@gmail.com,2026-04-11 12:00:00,Chandigarh,Growing,3,3697.0,2026-08-29 07:59:00,MEDIUM,0.32
+C0814,Kunal Srivastava,kunal.srivastava23@gmail.com,2026-05-22 12:00:00,Ahmedabad,Growing,4,4946.0,2026-07-30 03:19:00,MEDIUM,0.28
+C0815,Siddharth Iyer,siddharth.iyer40@gmail.com,2026-02-20 12:00:00,Chennai,At Risk,1,2999.0,2026-06-14 16:18:00,HIGH,0.8
+C0816,Neha Nair,neha.nair95@gmail.com,2025-12-17 12:00:00,Chennai,Loyal,4,12396.0,2026-08-05 01:35:00,LOW,0.25
+C0817,Aarav Agrawal,aarav.agrawal36@gmail.com,2025-08-13 12:00:00,Hyderabad,Growing,5,7545.0,2026-06-18 10:04:00,MEDIUM,0.36
+C0818,Dev Sengupta,dev.sengupta42@gmail.com,2025-07-30 12:00:00,Mumbai,Growing,5,5695.0,2026-08-15 14:00:00,MEDIUM,0.38
+C0819,Aarav Mehta,aarav.mehta59@gmail.com,2025-12-31 12:00:00,Ahmedabad,Loyal,5,9095.0,2026-08-20 20:17:00,LOW,0.2
+C0820,Neha Shetty,neha.shetty73@gmail.com,2026-02-04 12:00:00,Kolkata,Price Sensitive,0,0.0,,HIGH,0.9
+C0821,Chirag Pillai,chirag.pillai22@gmail.com,2025-10-11 12:00:00,Ahmedabad,Growing,3,3397.0,2026-08-04 05:21:00,MEDIUM,0.38
+C0822,Lakshmi Singhal,lakshmi.singhal30@gmail.com,2026-06-26 12:00:00,Ahmedabad,Growing,2,4998.0,2026-08-01 18:55:00,MEDIUM,0.41
+C0823,Ananya Kapoor,ananya.kapoor12@gmail.com,2026-03-22 12:00:00,Chennai,At Risk,1,849.0,2026-05-29 12:58:00,HIGH,0.76
+C0824,Ishaan Iyer,ishaan.iyer53@gmail.com,2026-01-22 12:00:00,Delhi NCR,Growing,5,7745.0,2026-07-29 12:40:00,MEDIUM,0.42
+C0825,Neha Iyer,neha.iyer80@gmail.com,2026-02-10 12:00:00,Mumbai,Loyal,7,12943.0,2026-07-26 02:25:00,LOW,0.23
+C0826,Isha Dutta,isha.dutta71@gmail.com,2025-12-25 12:00:00,Bengaluru,New,1,1899.0,2026-08-03 17:34:00,MEDIUM,0.41
+C0827,Lakshmi Chopra,lakshmi.chopra87@gmail.com,2026-05-14 12:00:00,Kolkata,At Risk,5,9795.0,2026-06-27 09:08:00,HIGH,0.78
+C0828,Arjun Reddy,arjun.reddy52@gmail.com,2026-04-27 12:00:00,Hyderabad,At Risk,4,9846.0,2026-06-15 15:07:00,HIGH,0.8
+C0829,Vivek Mathur,vivek.mathur79@gmail.com,2025-08-29 12:00:00,Pune,Growing,3,7497.0,2026-08-28 06:43:00,MEDIUM,0.26
+C0830,Saanvi Chatterjee,saanvi.chatterjee40@gmail.com,2026-07-08 12:00:00,Mumbai,Growing,2,6198.0,2026-08-10 01:50:00,MEDIUM,0.28
+C0831,Vikram Srivastava,vikram.srivastava80@gmail.com,2026-05-16 12:00:00,Ahmedabad,Growing,3,6447.0,2026-07-27 02:26:00,MEDIUM,0.43
+C0832,Arjun Menon,arjun.menon10@gmail.com,2026-06-19 12:00:00,Kolkata,Growing,2,6498.0,2026-07-25 11:42:00,MEDIUM,0.33
+C0833,Saanvi Bose,saanvi.bose71@gmail.com,2026-06-14 12:00:00,Hyderabad,Growing,3,6347.0,2026-08-09 07:40:00,MEDIUM,0.38
+C0834,Aditi Deshmukh,aditi.deshmukh31@gmail.com,2026-06-22 12:00:00,Pune,Growing,5,5995.0,2026-08-28 02:22:00,MEDIUM,0.44
+C0835,Akash Rao,akash.rao49@gmail.com,2025-12-04 12:00:00,Kolkata,Loyal,3,8397.0,2026-07-09 13:34:00,LOW,0.2
+C0836,Anika Agrawal,anika.agrawal21@gmail.com,2026-01-16 12:00:00,Jaipur,Loyal,4,12596.0,2026-08-29 13:05:00,LOW,0.25
+C0837,Nikhil Menon,nikhil.menon58@gmail.com,2026-04-29 12:00:00,Chennai,Churned,2,2098.0,2026-05-15 00:51:00,HIGH,0.91
+C0838,Kiran Patel,kiran.patel43@gmail.com,2025-12-07 12:00:00,Ahmedabad,Growing,3,7797.0,2026-06-21 15:19:00,MEDIUM,0.36
+C0839,Rhea Singhal,rhea.singhal44@gmail.com,2026-07-02 12:00:00,Chandigarh,VIP,6,21994.0,2026-07-18 19:13:00,LOW,0.16
+C0840,Meera Reddy,meera.reddy20@gmail.com,2025-10-29 12:00:00,Chennai,Growing,3,3797.0,2026-07-23 06:54:00,MEDIUM,0.4
+C0841,Vivek Choudhury,vivek.choudhury39@gmail.com,2026-07-02 12:00:00,Jaipur,Growing,3,5447.0,2026-08-29 07:06:00,MEDIUM,0.26
+C0842,Varun Tiwari,varun.tiwari63@gmail.com,2025-08-16 12:00:00,Jaipur,At Risk,1,2499.0,2026-05-03 12:26:00,HIGH,0.73
+C0843,Akash Srivastava,akash.srivastava40@gmail.com,2026-03-02 12:00:00,Ahmedabad,VIP,7,21593.0,2026-08-12 15:33:00,LOW,0.18
+C0844,Diya Nambiar,diya.nambiar14@gmail.com,2025-10-14 12:00:00,Jaipur,Growing,4,3896.0,2026-06-22 01:31:00,MEDIUM,0.34
+C0845,Bhavya Srivastava,bhavya.srivastava96@gmail.com,2026-05-19 12:00:00,Chandigarh,Price Sensitive,0,0.0,,HIGH,0.9
+C0846,Kavya Bhatt,kavya.bhatt32@gmail.com,2026-04-16 12:00:00,Delhi NCR,Loyal,4,9596.0,2026-07-29 08:54:00,LOW,0.13
+C0847,Pooja Gupta,pooja.gupta15@gmail.com,2026-06-23 12:00:00,Kolkata,Growing,2,5998.0,2026-06-28 06:09:00,MEDIUM,0.43
+C0848,Nandini Hegde,nandini.hegde35@gmail.com,2025-10-02 12:00:00,Delhi NCR,Growing,4,6096.0,2026-08-31 05:40:00,MEDIUM,0.41
+C0849,Rhea Mukherjee,rhea.mukherjee18@gmail.com,2026-01-16 12:00:00,Mumbai,Loyal,6,14794.0,2026-08-21 00:53:00,LOW,0.16
+C0850,Deepika Nambiar,deepika.nambiar80@gmail.com,2026-03-14 12:00:00,Chennai,At Risk,1,2899.0,2026-06-07 05:29:00,HIGH,0.79
+C0851,Bhavya Trivedi,bhavya.trivedi11@gmail.com,2025-10-06 12:00:00,Chandigarh,New,1,649.0,2026-08-17 17:37:00,MEDIUM,0.49
+C0852,Bhavya Shetty,bhavya.shetty24@gmail.com,2026-05-18 12:00:00,Kolkata,Growing,2,5798.0,2026-08-01 02:41:00,MEDIUM,0.35
+C0853,Meera Srivastava,meera.srivastava85@gmail.com,2026-06-12 12:00:00,Chandigarh,Churned,2,1798.0,2026-05-16 06:03:00,HIGH,0.94
+C0854,Ishaan Srivastava,ishaan.srivastava22@gmail.com,2025-11-01 12:00:00,Pune,Growing,4,6096.0,2026-06-30 09:06:00,MEDIUM,0.27
+C0855,Sneha Shetty,sneha.shetty43@gmail.com,2025-09-01 12:00:00,Kolkata,Loyal,5,12395.0,2026-08-30 19:09:00,LOW,0.19
+C0856,Anika Srivastava,anika.srivastava87@gmail.com,2026-07-14 12:00:00,Ahmedabad,Growing,2,3898.0,2026-07-05 22:26:00,MEDIUM,0.27
+C0857,Nikhil Bhatia,nikhil.bhatia61@gmail.com,2025-09-20 12:00:00,Delhi NCR,At Risk,1,849.0,2026-03-17 03:07:00,HIGH,0.79
+C0858,Isha Nambiar,isha.nambiar14@gmail.com,2026-02-14 12:00:00,Kolkata,Growing,3,5497.0,2026-07-18 23:47:00,MEDIUM,0.3
+C0859,Omkar Bansal,omkar.bansal16@gmail.com,2026-03-18 12:00:00,Ahmedabad,Churned,3,7597.0,2026-05-21 13:46:00,HIGH,0.92
+C0860,Tanvi Verma,tanvi.verma53@gmail.com,2026-02-24 12:00:00,Pune,Growing,2,3198.0,2026-08-23 05:41:00,MEDIUM,0.38
+C0861,Rohan Mishra,rohan.mishra99@gmail.com,2026-04-08 12:00:00,Mumbai,Growing,5,5795.0,2026-08-14 02:13:00,MEDIUM,0.44
+C0862,Manish Chatterjee,manish.chatterjee66@gmail.com,2026-03-18 12:00:00,Chennai,Loyal,4,10596.0,2026-07-26 13:06:00,LOW,0.28
+C0863,Rajesh Shetty,rajesh.shetty87@gmail.com,2026-04-28 12:00:00,Mumbai,Growing,2,6898.0,2026-06-27 15:28:00,MEDIUM,0.42
+C0864,Kiran Deshmukh,kiran.deshmukh62@gmail.com,2025-11-11 12:00:00,Ahmedabad,Churned,2,3098.0,2026-03-29 19:42:00,HIGH,0.9
+C0865,Tanvi Mehta,tanvi.mehta75@gmail.com,2026-06-30 12:00:00,Delhi NCR,Growing,3,2197.0,2026-07-29 18:38:00,MEDIUM,0.4
+C0866,Samarth Dubey,samarth.dubey61@gmail.com,2025-11-07 12:00:00,Delhi NCR,At Risk,1,4999.0,2026-04-19 08:28:00,HIGH,0.72
+C0867,Gaurav Verma,gaurav.verma32@gmail.com,2026-04-22 12:00:00,Hyderabad,Growing,3,6197.0,2026-07-27 02:27:00,MEDIUM,0.41
+C0868,Arjun Bansal,arjun.bansal14@gmail.com,2026-07-08 12:00:00,Ahmedabad,Growing,2,3198.0,2026-06-21 08:25:00,MEDIUM,0.28
+C0869,Tanvi Kulkarni,tanvi.kulkarni45@gmail.com,2025-12-08 12:00:00,Chennai,Loyal,5,8895.0,2026-08-14 00:47:00,LOW,0.24
+C0870,Aryan Nambiar,aryan.nambiar91@gmail.com,2025-08-19 12:00:00,Mumbai,Growing,5,6095.0,2026-07-06 16:51:00,MEDIUM,0.42
+C0871,Aditi Bansal,aditi.bansal57@gmail.com,2025-10-02 12:00:00,Ahmedabad,Growing,5,7095.0,2026-08-26 10:59:00,MEDIUM,0.35
+C0872,Kiran Joshi,kiran.joshi70@gmail.com,2025-10-24 12:00:00,Chandigarh,Growing,3,6447.0,2026-07-27 05:08:00,MEDIUM,0.44
+C0873,Sneha Sengupta,sneha.sengupta30@gmail.com,2025-08-15 12:00:00,Pune,Growing,3,4947.0,2026-07-12 07:46:00,MEDIUM,0.41
+C0874,Diya Kapoor,diya.kapoor13@gmail.com,2026-07-08 12:00:00,Kolkata,Loyal,5,9995.0,2026-08-06 09:55:00,LOW,0.23
+C0875,Neha Srivastava,neha.srivastava37@gmail.com,2025-09-05 12:00:00,Hyderabad,Price Sensitive,0,0.0,,HIGH,0.9
+C0876,Priya Deshmukh,priya.deshmukh44@gmail.com,2025-11-13 12:00:00,Kolkata,Loyal,5,11445.0,2026-07-13 02:11:00,LOW,0.27
+C0877,Aditi Sharma,aditi.sharma70@gmail.com,2025-09-05 12:00:00,Delhi NCR,Growing,3,6197.0,2026-06-29 09:21:00,MEDIUM,0.42
+C0878,Nikhil Bose,nikhil.bose11@gmail.com,2026-03-26 12:00:00,Hyderabad,Growing,4,5046.0,2026-07-03 02:46:00,MEDIUM,0.4
+C0879,Isha Chatterjee,isha.chatterjee92@gmail.com,2025-12-29 12:00:00,Pune,Price Sensitive,0,0.0,,HIGH,0.9
+C0880,Varun Sengupta,varun.sengupta68@gmail.com,2026-04-13 12:00:00,Pune,Growing,2,1998.0,2026-06-18 16:44:00,MEDIUM,0.44
+C0881,Aditya Chatterjee,aditya.chatterjee96@gmail.com,2025-09-17 12:00:00,Jaipur,Loyal,6,13094.0,2026-07-28 21:14:00,LOW,0.15
+C0882,Vikram Choudhury,vikram.choudhury23@gmail.com,2025-11-14 12:00:00,Bengaluru,At Risk,1,2499.0,2026-04-30 19:56:00,HIGH,0.72
+C0883,Mayank Menon,mayank.menon81@gmail.com,2025-09-25 12:00:00,Chandigarh,Churned,2,1798.0,2026-05-20 01:58:00,HIGH,0.95
+C0884,Saanvi Chatterjee,saanvi.chatterjee97@gmail.com,2025-11-29 12:00:00,Mumbai,Growing,2,2798.0,2026-08-28 06:40:00,MEDIUM,0.35
+C0885,Dev Das,dev.das45@gmail.com,2026-03-14 12:00:00,Chennai,Growing,3,7747.0,2026-08-29 11:02:00,MEDIUM,0.31
+C0886,Rhea Chatterjee,rhea.chatterjee34@gmail.com,2025-11-11 12:00:00,Delhi NCR,Growing,3,2647.0,2026-08-01 14:34:00,MEDIUM,0.38
+C0887,Tarun Bansal,tarun.bansal17@gmail.com,2026-01-08 12:00:00,Chandigarh,Growing,4,3296.0,2026-08-17 08:25:00,MEDIUM,0.44
+C0888,Mayank Mukherjee,mayank.mukherjee97@gmail.com,2025-07-29 12:00:00,Delhi NCR,At Risk,1,2999.0,2026-06-13 03:07:00,HIGH,0.72
+C0889,Aditi Mishra,aditi.mishra47@gmail.com,2025-12-31 12:00:00,Pune,Loyal,5,11095.0,2026-08-14 14:38:00,LOW,0.12
+C0890,Vikram Pillai,vikram.pillai14@gmail.com,2025-08-05 12:00:00,Chandigarh,Loyal,5,11095.0,2026-08-30 06:51:00,LOW,0.2
+C0891,Gaurav Kulkarni,gaurav.kulkarni53@gmail.com,2025-08-16 12:00:00,Hyderabad,Loyal,5,8395.0,2026-08-09 16:58:00,LOW,0.21
+C0892,Chirag Pandey,chirag.pandey95@gmail.com,2025-11-16 12:00:00,Chennai,Growing,3,5197.0,2026-08-20 16:54:00,MEDIUM,0.27
+C0893,Samarth Chopra,samarth.chopra94@gmail.com,2026-05-02 12:00:00,Jaipur,Growing,2,3548.0,2026-08-06 04:45:00,MEDIUM,0.28
+C0894,Saanvi Reddy,saanvi.reddy70@gmail.com,2026-03-23 12:00:00,Delhi NCR,Loyal,5,9295.0,2026-07-22 14:30:00,LOW,0.16
+C0895,Rajesh Mathur,rajesh.mathur33@gmail.com,2025-09-01 12:00:00,Chennai,Growing,3,5197.0,2026-08-18 21:23:00,MEDIUM,0.32
+C0896,Diya Singhal,diya.singhal55@gmail.com,2026-02-26 12:00:00,Hyderabad,Loyal,4,13446.0,2026-08-05 10:37:00,LOW,0.14
+C0897,Vivek Das,vivek.das57@gmail.com,2025-10-07 12:00:00,Pune,Growing,2,6398.0,2026-07-27 05:08:00,MEDIUM,0.27
+C0898,Saanvi Trivedi,saanvi.trivedi25@gmail.com,2026-07-06 12:00:00,Ahmedabad,Loyal,6,14694.0,2026-08-10 09:56:00,LOW,0.22
+C0899,Kunal Choudhury,kunal.choudhury84@gmail.com,2026-06-27 12:00:00,Chandigarh,Growing,4,4596.0,2026-07-23 07:18:00,MEDIUM,0.4
+C0900,Akash Kulkarni,akash.kulkarni74@gmail.com,2025-08-19 12:00:00,Mumbai,Growing,3,7597.0,2026-07-05 13:15:00,MEDIUM,0.42
+C0901,Varun Tiwari,varun.tiwari48@gmail.com,2026-07-06 12:00:00,Kolkata,Growing,2,5198.0,2026-08-15 18:57:00,MEDIUM,0.36
+C0902,Meera Gupta,meera.gupta35@gmail.com,2026-01-05 12:00:00,Chennai,Growing,2,3898.0,2026-07-18 11:53:00,MEDIUM,0.28
+C0903,Gaurav Trivedi,gaurav.trivedi28@gmail.com,2025-08-01 12:00:00,Chennai,Growing,3,4497.0,2026-06-09 12:04:00,MEDIUM,0.28
+C0904,Nikhil Nair,nikhil.nair72@gmail.com,2025-09-13 12:00:00,Chennai,Loyal,6,11394.0,2026-08-21 07:09:00,LOW,0.2
+C0905,Nikhil Mukherjee,nikhil.mukherjee91@gmail.com,2026-07-31 12:00:00,Bengaluru,Loyal,9,14341.0,2026-08-16 12:15:00,LOW,0.28
+C0906,Kiran Bhatia,kiran.bhatia36@gmail.com,2025-10-11 12:00:00,Delhi NCR,At Risk,1,1199.0,2026-05-06 00:38:00,HIGH,0.66
+C0907,Tarun Chopra,tarun.chopra72@gmail.com,2026-05-28 12:00:00,Mumbai,Growing,5,5045.0,2026-08-09 20:41:00,MEDIUM,0.33
+C0908,Jatin Hegde,jatin.hegde91@gmail.com,2026-01-08 12:00:00,Kolkata,Loyal,8,12892.0,2026-08-14 06:52:00,LOW,0.18
+C0909,Zoya Pandey,zoya.pandey59@gmail.com,2026-07-14 12:00:00,Bengaluru,Loyal,3,10197.0,2026-08-05 04:46:00,LOW,0.24
+C0910,Chirag Kulkarni,chirag.kulkarni57@gmail.com,2026-02-19 12:00:00,Bengaluru,Growing,4,6446.0,2026-08-19 04:43:00,MEDIUM,0.28
+C0911,Tarun Tiwari,tarun.tiwari34@gmail.com,2025-08-21 12:00:00,Bengaluru,Growing,4,5046.0,2026-08-22 12:05:00,MEDIUM,0.34
+C0912,Aarav Bansal,aarav.bansal38@gmail.com,2026-02-24 12:00:00,Chennai,Loyal,5,9645.0,2026-07-14 14:35:00,LOW,0.27
+C0913,Manish Reddy,manish.reddy59@gmail.com,2025-10-05 12:00:00,Jaipur,At Risk,3,11797.0,2026-06-17 02:44:00,HIGH,0.83
+C0914,Samarth Chopra,samarth.chopra18@gmail.com,2026-03-03 12:00:00,Bengaluru,At Risk,5,14095.0,2026-07-02 01:52:00,HIGH,0.78
+C0915,Saanvi Trivedi,saanvi.trivedi76@gmail.com,2025-11-07 12:00:00,Chandigarh,Growing,2,3698.0,2026-08-04 09:12:00,MEDIUM,0.29
+C0916,Siddharth Hegde,siddharth.hegde97@gmail.com,2026-02-08 12:00:00,Delhi NCR,Churned,3,5397.0,2026-05-04 01:52:00,HIGH,0.94
+C0917,Anika Sengupta,anika.sengupta34@gmail.com,2026-01-08 12:00:00,Delhi NCR,Churned,4,7346.0,2026-05-23 23:14:00,HIGH,0.98
+C0918,Aditi Singhal,aditi.singhal38@gmail.com,2026-04-16 12:00:00,Delhi NCR,Churned,3,6047.0,2026-05-07 01:12:00,HIGH,0.93
+C0919,Rajesh Verma,rajesh.verma85@gmail.com,2026-05-08 12:00:00,Jaipur,Loyal,7,15043.0,2026-08-28 09:02:00,LOW,0.19
+C0920,Kavya Menon,kavya.menon93@gmail.com,2026-01-22 12:00:00,Bengaluru,Growing,2,1698.0,2026-06-24 15:20:00,MEDIUM,0.33
+C0921,Kunal Agrawal,kunal.agrawal78@gmail.com,2026-07-09 12:00:00,Chandigarh,Growing,2,2048.0,2026-06-03 05:42:00,MEDIUM,0.42
+C0922,Isha Mehta,isha.mehta94@gmail.com,2025-09-02 12:00:00,Mumbai,Churned,2,4748.0,2026-03-20 04:49:00,HIGH,0.93
+C0923,Aditi Mehta,aditi.mehta98@gmail.com,2026-01-01 12:00:00,Mumbai,Loyal,3,8097.0,2026-08-03 09:32:00,LOW,0.28
+C0924,Kiran Pillai,kiran.pillai25@gmail.com,2026-03-26 12:00:00,Jaipur,Loyal,6,15394.0,2026-08-26 18:49:00,LOW,0.24
+C0925,Akash Malhotra,akash.malhotra36@gmail.com,2026-03-01 12:00:00,Bengaluru,Growing,4,4246.0,2026-08-04 23:19:00,MEDIUM,0.25
+C0926,Vivek Reddy,vivek.reddy94@gmail.com,2026-03-17 12:00:00,Jaipur,Churned,2,5798.0,2026-05-20 21:55:00,HIGH,0.88
+C0927,Jatin Bose,jatin.bose99@gmail.com,2025-12-31 12:00:00,Delhi NCR,Loyal,5,8645.0,2026-07-18 15:42:00,LOW,0.23
+C0928,Ishaan Dubey,ishaan.dubey89@gmail.com,2026-03-11 12:00:00,Mumbai,Growing,4,7396.0,2026-07-23 17:49:00,MEDIUM,0.4
+C0929,Kavya Reddy,kavya.reddy73@gmail.com,2025-09-25 12:00:00,Hyderabad,Loyal,3,8497.0,2026-08-31 07:11:00,LOW,0.12
+C0930,Pooja Agrawal,pooja.agrawal76@gmail.com,2026-01-31 12:00:00,Hyderabad,Loyal,7,18993.0,2026-08-30 00:10:00,LOW,0.24
+C0931,Payal Shetty,payal.shetty47@gmail.com,2026-07-13 12:00:00,Delhi NCR,Churned,3,3047.0,2026-05-01 06:09:00,HIGH,0.94
+C0932,Deepika Mishra,deepika.mishra36@gmail.com,2026-02-14 12:00:00,Ahmedabad,Loyal,4,8346.0,2026-07-08 06:28:00,LOW,0.28
+C0933,Rahul Sharma,rahul.sharma11@gmail.com,2026-06-07 12:00:00,Mumbai,Growing,2,4698.0,2026-06-30 05:55:00,MEDIUM,0.34
+C0934,Gaurav Mishra,gaurav.mishra29@gmail.com,2025-11-14 12:00:00,Mumbai,Loyal,6,9794.0,2026-08-29 06:00:00,LOW,0.25
+C0935,Dev Reddy,dev.reddy42@gmail.com,2025-12-12 12:00:00,Hyderabad,Loyal,5,8745.0,2026-08-25 04:33:00,LOW,0.2
+C0936,Saanvi Agrawal,saanvi.agrawal69@gmail.com,2026-06-12 12:00:00,Bengaluru,Loyal,6,17544.0,2026-08-22 13:51:00,LOW,0.24
+C0937,Nikhil Patel,nikhil.patel47@gmail.com,2025-08-21 12:00:00,Chennai,Growing,6,6844.0,2026-08-14 03:57:00,MEDIUM,0.36
+C0938,Shreya Hegde,shreya.hegde24@gmail.com,2026-07-10 12:00:00,Mumbai,Growing,5,5145.0,2026-08-19 04:43:00,MEDIUM,0.35
+C0939,Aarav Gupta,aarav.gupta94@gmail.com,2026-02-15 12:00:00,Delhi NCR,Loyal,5,10395.0,2026-08-02 14:48:00,LOW,0.24
+C0940,Sneha Bhatt,sneha.bhatt89@gmail.com,2026-06-16 12:00:00,Pune,Growing,4,5746.0,2026-06-27 23:54:00,MEDIUM,0.43
+C0941,Tanvi Das,tanvi.das33@gmail.com,2026-01-09 12:00:00,Mumbai,Growing,2,2998.0,2026-06-14 16:53:00,MEDIUM,0.39
+C0942,Vikram Trivedi,vikram.trivedi44@gmail.com,2025-08-14 12:00:00,Kolkata,New,1,849.0,2026-07-08 16:27:00,MEDIUM,0.39
+C0943,Akash Shetty,akash.shetty93@gmail.com,2026-06-06 12:00:00,Delhi NCR,Growing,2,3198.0,2026-06-08 09:40:00,MEDIUM,0.41
+C0944,Manish Mehta,manish.mehta30@gmail.com,2026-01-01 12:00:00,Mumbai,At Risk,1,2499.0,2026-03-05 13:46:00,HIGH,0.74
+C0945,Harsh Pandey,harsh.pandey82@gmail.com,2026-05-02 12:00:00,Ahmedabad,Loyal,6,11344.0,2026-08-28 17:18:00,LOW,0.15
+C0946,Jatin Pillai,jatin.pillai55@gmail.com,2026-07-19 12:00:00,Chandigarh,Growing,2,2498.0,2026-07-27 20:49:00,MEDIUM,0.35
+C0947,Nandini Gupta,nandini.gupta71@gmail.com,2026-06-06 12:00:00,Ahmedabad,Growing,3,4497.0,2026-07-30 17:29:00,MEDIUM,0.42
+C0948,Vivek Bhatt,vivek.bhatt15@gmail.com,2026-03-22 12:00:00,Mumbai,Loyal,4,8146.0,2026-08-18 23:37:00,LOW,0.24
+C0949,Lakshmi Mukherjee,lakshmi.mukherjee11@gmail.com,2025-10-11 12:00:00,Jaipur,Growing,4,7696.0,2026-08-28 12:24:00,MEDIUM,0.26
+C0950,Rajesh Srivastava,rajesh.srivastava38@gmail.com,2025-11-10 12:00:00,Chennai,At Risk,5,9395.0,2026-06-14 18:30:00,HIGH,0.84
+C0951,Bhavya Dutta,bhavya.dutta22@gmail.com,2025-08-29 12:00:00,Kolkata,Loyal,5,9995.0,2026-07-09 08:06:00,LOW,0.26
+C0952,Rajesh Bansal,rajesh.bansal71@gmail.com,2025-08-28 12:00:00,Chennai,New,1,649.0,2026-08-03 07:08:00,MEDIUM,0.35
+C0953,Nandini Pillai,nandini.pillai29@gmail.com,2025-09-23 12:00:00,Jaipur,Growing,2,6798.0,2026-06-03 15:17:00,MEDIUM,0.35
+C0954,Arjun Sharma,arjun.sharma92@gmail.com,2025-11-17 12:00:00,Delhi NCR,Growing,5,4895.0,2026-08-29 20:56:00,MEDIUM,0.37
+C0955,Akash Mishra,akash.mishra31@gmail.com,2025-11-24 12:00:00,Mumbai,Growing,3,5747.0,2026-08-15 11:01:00,MEDIUM,0.38
+C0956,Shreya Bansal,shreya.bansal52@gmail.com,2026-07-08 12:00:00,Pune,Churned,2,3248.0,2026-05-19 05:49:00,HIGH,0.95
+C0957,Aryan Singhal,aryan.singhal80@gmail.com,2026-01-08 12:00:00,Kolkata,Churned,4,5496.0,2026-05-29 07:41:00,HIGH,0.93
+C0958,Rahul Nair,rahul.nair68@gmail.com,2025-10-13 12:00:00,Ahmedabad,Churned,2,6498.0,2026-03-25 20:57:00,HIGH,0.91
+C0959,Kiran Nair,kiran.nair73@gmail.com,2026-02-22 12:00:00,Ahmedabad,Growing,2,3598.0,2026-06-12 06:02:00,MEDIUM,0.34
+C0960,Kavya Mishra,kavya.mishra93@gmail.com,2026-06-11 12:00:00,Bengaluru,Growing,4,6596.0,2026-07-06 07:52:00,MEDIUM,0.33
+C0961,Vikram Shetty,vikram.shetty14@gmail.com,2025-10-25 12:00:00,Jaipur,Growing,3,5497.0,2026-08-30 06:51:00,MEDIUM,0.39
+C0962,Aarav Nair,aarav.nair87@gmail.com,2025-09-10 12:00:00,Chandigarh,Growing,4,6196.0,2026-08-28 00:03:00,MEDIUM,0.37
+C0963,Samarth Dubey,samarth.dubey81@gmail.com,2025-09-01 12:00:00,Hyderabad,Growing,3,5897.0,2026-08-20 13:11:00,MEDIUM,0.32
+C0964,Mayank Trivedi,mayank.trivedi53@gmail.com,2026-07-06 12:00:00,Chennai,At Risk,1,4999.0,2026-05-19 20:29:00,HIGH,0.78
+C0965,Priya Trivedi,priya.trivedi52@gmail.com,2025-09-19 12:00:00,Jaipur,Growing,4,5746.0,2026-07-02 12:23:00,MEDIUM,0.41
+C0966,Isha Pandey,isha.pandey94@gmail.com,2025-08-01 12:00:00,Chennai,Loyal,10,19840.0,2026-08-16 09:26:00,LOW,0.23
+C0967,Kiran Rao,kiran.rao22@gmail.com,2026-08-01 12:00:00,Hyderabad,Loyal,6,12094.0,2026-07-27 18:39:00,LOW,0.16
+C0968,Siddharth Sengupta,siddharth.sengupta91@gmail.com,2025-10-26 12:00:00,Pune,Growing,3,7197.0,2026-07-17 08:12:00,MEDIUM,0.32
+C0969,Bhavya Menon,bhavya.menon99@gmail.com,2026-07-10 12:00:00,Mumbai,Growing,4,5546.0,2026-07-31 22:59:00,MEDIUM,0.31
+C0970,Neha Mishra,neha.mishra27@gmail.com,2026-06-09 12:00:00,Kolkata,Price Sensitive,0,0.0,,HIGH,0.9
+C0971,Rhea Dutta,rhea.dutta35@gmail.com,2026-06-02 12:00:00,Hyderabad,Churned,2,5898.0,2026-04-11 13:07:00,HIGH,0.89
+C0972,Vikram Deshmukh,vikram.deshmukh68@gmail.com,2025-08-01 12:00:00,Hyderabad,Growing,3,5897.0,2026-07-20 09:28:00,MEDIUM,0.34
+C0973,Siddharth Reddy,siddharth.reddy63@gmail.com,2025-09-12 12:00:00,Bengaluru,Growing,5,7745.0,2026-08-19 10:17:00,MEDIUM,0.32
+C0974,Nandini Choudhury,nandini.choudhury25@gmail.com,2025-12-11 12:00:00,Ahmedabad,Loyal,6,8944.0,2026-08-22 22:06:00,LOW,0.16
+C0975,Mayank Choudhury,mayank.choudhury74@gmail.com,2025-11-20 12:00:00,Delhi NCR,At Risk,1,749.0,2026-04-29 17:23:00,HIGH,0.77
+C0976,Aarav Tiwari,aarav.tiwari16@gmail.com,2025-12-24 12:00:00,Jaipur,Growing,5,6795.0,2026-08-25 20:07:00,MEDIUM,0.35
+C0977,Harsh Pandey,harsh.pandey75@gmail.com,2025-08-13 12:00:00,Delhi NCR,Growing,3,7297.0,2026-06-23 07:14:00,MEDIUM,0.35
+C0978,Harsh Joshi,harsh.joshi26@gmail.com,2026-01-16 12:00:00,Mumbai,At Risk,1,1899.0,2026-05-17 09:29:00,HIGH,0.72
+C0979,Mayank Bose,mayank.bose87@gmail.com,2025-11-17 12:00:00,Chennai,Growing,3,4997.0,2026-08-28 11:09:00,MEDIUM,0.37
+C0980,Varun Shetty,varun.shetty87@gmail.com,2026-03-15 12:00:00,Hyderabad,Growing,5,6695.0,2026-08-01 21:02:00,MEDIUM,0.35
+C0981,Vikram Das,vikram.das47@gmail.com,2026-05-26 12:00:00,Ahmedabad,Churned,2,2548.0,2026-04-16 08:15:00,HIGH,0.94
+C0982,Manish Shetty,manish.shetty87@gmail.com,2026-03-02 12:00:00,Jaipur,Loyal,3,8197.0,2026-08-26 18:03:00,LOW,0.12
+C0983,Omkar Mathur,omkar.mathur50@gmail.com,2025-09-13 12:00:00,Jaipur,Loyal,4,13496.0,2026-07-07 20:34:00,LOW,0.27
+C0984,Pranav Kulkarni,pranav.kulkarni36@gmail.com,2025-08-02 12:00:00,Chandigarh,Growing,4,3096.0,2026-08-30 16:17:00,MEDIUM,0.26
+C0985,Saanvi Sengupta,saanvi.sengupta96@gmail.com,2025-08-04 12:00:00,Delhi NCR,Loyal,5,11895.0,2026-08-31 11:43:00,LOW,0.17
+C0986,Lakshmi Joshi,lakshmi.joshi74@gmail.com,2025-08-12 12:00:00,Jaipur,At Risk,1,849.0,2026-06-01 16:24:00,HIGH,0.76
+C0987,Kunal Mukherjee,kunal.mukherjee24@gmail.com,2025-10-19 12:00:00,Chennai,Loyal,4,10696.0,2026-08-14 12:20:00,LOW,0.24
+C0988,Akash Choudhury,akash.choudhury83@gmail.com,2025-08-22 12:00:00,Kolkata,Growing,3,3247.0,2026-08-17 08:17:00,MEDIUM,0.26
+C0989,Sakshi Saxena,sakshi.saxena46@gmail.com,2026-07-27 12:00:00,Kolkata,Loyal,3,9347.0,2026-08-31 09:48:00,LOW,0.19
+C0990,Bhavya Reddy,bhavya.reddy13@gmail.com,2026-05-20 12:00:00,Kolkata,Loyal,4,8296.0,2026-07-24 13:39:00,LOW,0.15
+C0991,Arjun Mehta,arjun.mehta35@gmail.com,2026-05-12 12:00:00,Pune,At Risk,1,2499.0,2026-03-22 02:27:00,HIGH,0.74
+C0992,Saanvi Agrawal,saanvi.agrawal28@gmail.com,2025-08-14 12:00:00,Bengaluru,New,1,999.0,2026-08-03 22:50:00,MEDIUM,0.5
+C0993,Saanvi Deshmukh,saanvi.deshmukh79@gmail.com,2026-01-31 12:00:00,Bengaluru,Loyal,6,10644.0,2026-07-28 16:22:00,LOW,0.13
+C0994,Kiran Reddy,kiran.reddy88@gmail.com,2026-04-10 12:00:00,Jaipur,At Risk,1,749.0,2026-05-15 17:06:00,HIGH,0.67
+C0995,Sakshi Mathur,sakshi.mathur59@gmail.com,2025-11-14 12:00:00,Hyderabad,New,1,1899.0,2026-08-21 16:08:00,MEDIUM,0.45
+C0996,Omkar Kapoor,omkar.kapoor98@gmail.com,2026-01-19 12:00:00,Bengaluru,Loyal,4,8046.0,2026-08-24 16:32:00,LOW,0.23
+C0997,Varun Shetty,varun.shetty97@gmail.com,2025-10-24 12:00:00,Chennai,At Risk,1,649.0,2026-03-04 22:15:00,HIGH,0.79
+C0998,Arjun Sharma,arjun.sharma42@gmail.com,2025-09-19 12:00:00,Hyderabad,Growing,3,4097.0,2026-07-30 18:38:00,MEDIUM,0.32
+C0999,Yash Bhatt,yash.bhatt38@gmail.com,2025-10-05 12:00:00,Chennai,Growing,4,7246.0,2026-08-08 20:16:00,MEDIUM,0.44
+C1000,Chirag Bose,chirag.bose35@gmail.com,2026-03-05 12:00:00,Hyderabad,Growing,3,4947.0,2026-08-19 19:49:00,MEDIUM,0.32
