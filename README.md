@@ -8,7 +8,9 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.5+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![Tests](https://img.shields.io/badge/Tests-9%20Passed-10B981?style=for-the-badge&logo=pytest&logoColor=white)](file:///tests/test_backend.py)
 
-> **Built for Razorpay AI Internship / Build Challenge**  
+> **Built for Razorpay AI Internship / Build Challenge**
+>
+> 
 > **Track 1: AI Growth & Agentic Commerce**  
 > *Transforming Razorpay from a passive payment processor into an autonomous growth and revenue optimization engine.*
 
