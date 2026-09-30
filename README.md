@@ -16,6 +16,7 @@
 
 ---
 
+
 ## 📌 Executive Summary
 
 Merchants typically lose **15% to 30% of addressable GMV** to silent revenue leaks:
